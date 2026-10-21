@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="SYSTEM ONLINE // RISHABH ARYAN // AI/ML RESEARCHER &amp; R&amp;D ENGINEER">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#ff0033" opacity="0.06"/></pattern>
+    <radialGradient id="glow" cx="80%" cy="50%" r="45%"><stop offset="0" stop-color="#ff0033" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sweep" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#ff0033" stop-opacity="0"/><stop offset="0.5" stop-color="#ff0033" stop-opacity="0.25"/><stop offset="1" stop-color="#ff0033" stop-opacity="0"/></linearGradient>
+    <style>
+      .t{font-family:'Courier New',Consolas,monospace;fill:#ff0033}
+      .c{font-family:'Courier New',Consolas,monospace;fill:#00f0ff}
+      .blink{animation:b 1.1s steps(2) infinite}
+      @keyframes b{50%{opacity:0}}
+      .glitch{animation:g 3.2s infinite}
+      @keyframes g{0%,92%,100%{transform:translate(0,0)}93%{transform:translate(-3px,1px)}95%{transform:translate(3px,-1px)}97%{transform:translate(-1px,0)}}
+      .l1,.l2,.l3,.l4{opacity:0;animation:in .4s forwards}
+      .l1{animation-delay:.3s}.l2{animation-delay:1s}.l3{animation-delay:1.7s}.l4{animation-delay:2.4s}
+      @keyframes in{to{opacity:1}}
+      .spin{transform-origin:830px 130px;animation:s 8s linear infinite}
+      @keyframes s{to{transform:rotate(360deg)}}
+      .sw{animation:sw 3s linear infinite}
+      @keyframes sw{from{transform:translateY(-80px)}to{transform:translateY(260px)}}
+    </style>
+  </defs>
+  <rect width="1000" height="260" fill="#000"/>
+  <rect width="1000" height="260" fill="url(#glow)"/>
+  <rect class="sw" width="1000" height="70" fill="url(#sweep)"/>
+  <rect width="1000" height="260" fill="url(#scan)"/>
+  <path d="M10 40V10h30M960 10h30v30M990 220v30h-30M40 250H10v-30" stroke="#ff0033" stroke-width="2" fill="none"/>
+  <text class="t" x="40" y="48" font-size="14" opacity=".8">[ HUD v2.6 ] :: VISUAL ANALYSIS MODE</text>
+  <g class="glitch">
+    <text class="t" x="40" y="100" font-size="22" font-weight="bold">SYSTEM ONLINE // RISHABH ARYAN</text>
+    <text class="c" x="40" y="132" font-size="18">AI/ML RESEARCHER &amp; R&amp;D ENGINEER</text>
+  </g>
+  <text class="t l1" x="40" y="172" font-size="13">&gt; scanning... threat level: high-performance</text>
+  <text class="t l2" x="40" y="192" font-size="13">&gt; modules: EEG // GENOMICS // NLP // WEB</text>
+  <text class="t l3" x="40" y="212" font-size="13">&gt; leakage check ........ PASSED</text>
+  <text class="c l4" x="40" y="232" font-size="13">&gt; awaiting next mission<tspan class="blink">_</tspan></text>
+  <g stroke="#ff0033" fill="none">
+    <circle cx="830" cy="130" r="80" stroke-width="1.5" opacity=".7"/>
+    <circle cx="830" cy="130" r="50" stroke-width="1" opacity=".5"/>
+    <g class="spin"><path d="M830 42v24M830 194v24M742 130h24M894 130h24" stroke-width="2"/><path d="M830 50a80 80 0 0 1 56 23" stroke="#00f0ff" stroke-width="3"/></g>
+    <circle cx="830" cy="130" r="4" fill="#ff0033"/>
+  </g>
+  <text class="t" x="760" y="236" font-size="11" opacity=".8">TARGET LOCK: ACQUIRED</text>
+  <text class="c" x="760" y="30" font-size="11" opacity=".8">SECTOR: R&amp;D // ONLINE</text>
+</svg>
