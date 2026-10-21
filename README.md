@@ -54,7 +54,7 @@
 | Period | Programme |
 |---|---|
 | — | **M.Tech, Artificial Intelligence & Data Science** — Indian Institute of Information Technology (IIIT) Bhagalpur |
-| 2026 | **6-Month Industrial Training & Certification Program in AI & ML** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India |
+| — | **6-Month Industrial Training & Certification Program in AI & ML** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India |
 | 10 Jun – 10 Aug 2026 | **Internship: AI (LLMs, GenAI, Automation & AI Agents)** — Summer School 2026, IIT Jammu, in collaboration with Techible and I3C IIT Jammu. During this internship I built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate) at a 24-hour hackathon at IIT Jammu. |
 
 ## `// TELEMETRY`
@@ -65,9 +65,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rishabh-bgp&background=000000&border=ff0033&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=00f0ff&currStreakNum=00f0ff&sideNums=00f0ff&dates=888888" alt="GitHub contribution streak for Rishabh-bgp"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-bgp&bg_color=000000&color=00f0ff&line=ff0033&point=ffffff&area=true&area_color=ff0033&hide_border=true" alt="Contribution activity graph for Rishabh-bgp"/>
 </p>
 
 ```text
