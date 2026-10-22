@@ -36,6 +36,7 @@
 |---|---|---|
 | [**beed-ml-study**](https://github.com/Rishabh-bgp/beed-ml-study) | Provenance audit & leakage-aware benchmark on the Bangalore EEG Epilepsy Dataset | — |
 | [**pan-cancer-classification**](https://github.com/Rishabh-bgp/pan-cancer-classification) | Leakage, equivalence & conformal reliability on UCI TCGA Pan-Cancer RNA-Seq | — |
+| [**real-estate-valuation-taiwan**](https://github.com/Rishabh-bgp/real-estate-valuation-taiwan) | Capstone: house price per ping prediction for Xindian, New Taipei — gradient boosting, FastAPI, in-browser web app with OpenStreetMap | [▶ open](https://rishabh-bgp.github.io/real-estate-valuation-taiwan/) |
 | [**iris-classification**](https://github.com/Rishabh-bgp/iris-classification) | Iris classifier: scikit-learn model comparison, FastAPI `/predict`, Docker, CI and an in-browser ML demo | [▶ open](https://rishabh-bgp.github.io/iris-classification/) |
 | [**machine-learning-part-1**](https://github.com/Rishabh-bgp/machine-learning-part-1) | Heart-disease classification & insurance-cost regression with scikit-learn | — |
 | [**NIELIT-MACHINE-LEARNING-PROJECTS**](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end ML projects with runnable notebooks | — |
