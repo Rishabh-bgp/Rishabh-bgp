@@ -30,14 +30,22 @@
 
 ## `// TARGETS ACQUIRED` — Featured projects
 
+### `> SECTOR 01 :: IIT ROPAR × NIELIT ROPAR AI/ML PROGRAM`
+
 | Project | What it is | Live |
 |---|---|---|
 | [**beed-ml-study**](https://github.com/Rishabh-bgp/beed-ml-study) | Provenance audit & leakage-aware benchmark on the Bangalore EEG Epilepsy Dataset | — |
 | [**pan-cancer-classification**](https://github.com/Rishabh-bgp/pan-cancer-classification) | Leakage, equivalence & conformal reliability on UCI TCGA Pan-Cancer RNA-Seq | — |
-| [**spam-scan**](https://github.com/Rishabh-bgp/spam-scan) | Explainable spam/phishing/Indian-scam detector (TF-IDF + LR, Flask) | [▶ open](https://spam-scan.onrender.com) |
-| [**cobratate**](https://github.com/Rishabh-bgp/cobratate) | Esoteric programming language with a Python interpreter — built at a 24-hour hackathon at IIT Jammu | [▶ open](https://rishabh-bgp.github.io/cobratate/) |
+| [**iris-classification**](https://github.com/Rishabh-bgp/iris-classification) | Iris classifier: scikit-learn model comparison, FastAPI `/predict`, Docker, CI and an in-browser ML demo | [▶ open](https://rishabh-bgp.github.io/iris-classification/) |
 | [**machine-learning-part-1**](https://github.com/Rishabh-bgp/machine-learning-part-1) | Heart-disease classification & insurance-cost regression with scikit-learn | — |
 | [**NIELIT-MACHINE-LEARNING-PROJECTS**](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end ML projects with runnable notebooks | — |
+
+### `> SECTOR 02 :: FIELD OPERATIONS`
+
+| Project | What it is | Live |
+|---|---|---|
+| [**spam-scan**](https://github.com/Rishabh-bgp/spam-scan) | Explainable spam/phishing/Indian-scam detector (TF-IDF + LR, Flask) | [▶ open](https://spam-scan.onrender.com) |
+| [**cobratate**](https://github.com/Rishabh-bgp/cobratate) | Esoteric programming language with a Python interpreter — built at a 24-hour hackathon at IIT Jammu | [▶ open](https://rishabh-bgp.github.io/cobratate/) |
 | [**logistics-website-capstone**](https://github.com/Rishabh-bgp/logistics-website-capstone) | Kargonaut Logistics — claymorphism, glassmorphism & neumorphism | [▶ open](https://rishabh-bgp.github.io/logistics-website-capstone/) |
 | [**lovelight-leap**](https://github.com/Rishabh-bgp/lovelight-leap) | Love-themed 2D platformer in vanilla JS canvas | [▶ play](https://rishabh-bgp.github.io/lovelight-leap/) |
 
