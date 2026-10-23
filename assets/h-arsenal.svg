@@ -1,8 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="ARSENAL"><defs><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c1121f"/><stop offset="1" stop-color="#8b0000"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#111114"/><stop offset=".55" stop-color="#1b2340"/><stop offset="1" stop-color="#5a0008"/></linearGradient>
-<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#8a6a10"/><stop offset=".5" stop-color="#f3d27a"/><stop offset="1" stop-color="#8a6a10"/></linearGradient>
-<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#d4a017" opacity=".05"/></pattern></defs>
-<rect width="1000" height="64" fill="#111114"/><rect x="0" y="0" width="1000" height="64" fill="url(#bg)" opacity=".9"/>
-<rect x="2" y="2" width="996" height="60" fill="none" stroke="url(#gold)" stroke-width="2"/><rect x="2" y="2" width="10" height="60" fill="#c1121f"/>
-<polygon points="46.0,13.0 50.7,27.5 66.0,27.5 53.6,36.5 58.3,51.0 46.0,42.0 33.7,51.0 38.4,36.5 26.0,27.5 41.3,27.5" fill="#d4a017"/><polygon points="46.0,18.0 49.6,29.1 61.2,29.1 51.8,35.9 55.4,46.9 46.0,40.1 36.6,46.9 40.2,35.9 30.8,29.1 42.4,29.1" fill="url(#red)"/><polygon points="46.0,25.2 48.0,31.3 54.4,31.3 49.2,35.0 51.2,41.1 46.0,37.4 40.8,41.1 42.8,35.0 37.6,31.3 44.0,31.3" fill="none" stroke="#f3d27a" stroke-width="1.2" opacity=".7"/><text x="78" y="41" style="font-family:'Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif;font-stretch:condensed;font-weight:800;letter-spacing:5px" font-size="26" fill="#f5ecd7">ARSENAL</text>
-<text x="980" y="40" text-anchor="end" style="font-family:'Courier New',Consolas,monospace" font-size="14" fill="#d4a017">// TECH STACK</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="86" viewBox="0 0 1000 86" role="img" aria-label="LOADOUT: TECH STACK"><defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#000" opacity=".35"/></pattern>
+<pattern id="half" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.3" fill="#f2e6cf" opacity=".10"/></pattern>
+<pattern id="halfr" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#000" opacity=".28"/></pattern>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 .95 0 0 0 0 .9 0 0 0 0 .8 0 0 0 .08 0"/></filter>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39ff6a" stop-opacity="0"/><stop offset="1" stop-color="#39ff6a" stop-opacity=".55"/></linearGradient>
+</defs><style>
+.glA{animation:ga 3.4s infinite}.glB{animation:gb 3.4s infinite}
+@keyframes ga{0%,90%,100%{transform:translate(0,0)}92%{transform:translate(-4px,1px)}95%{transform:translate(3px,-1px)}}
+@keyframes gb{0%,90%,100%{transform:translate(0,0)}92%{transform:translate(4px,-1px)}95%{transform:translate(-3px,1px)}}
+.blink{animation:bl 1.1s steps(2) infinite}@keyframes bl{50%{opacity:0}}
+.rot{animation:rt 4s linear infinite}@keyframes rt{to{transform:rotate(360deg)}}
+.scanline{animation:sl 3s linear infinite}@keyframes sl{from{transform:translateY(-10px)}to{transform:translateY(300px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1000" height="86" fill="#0a0a0a"/><g><polygon points="40,120 162,-569 192,-563" fill="#ff0033" opacity="0.1"/><polygon points="40,120 221,-556 250,-548" fill="#ff0033" opacity="0.1"/><polygon points="40,120 279,-538 308,-527" fill="#ff0033" opacity="0.1"/><polygon points="40,120 336,-514 363,-501" fill="#ff0033" opacity="0.1"/><polygon points="40,120 390,-486 416,-470" fill="#ff0033" opacity="0.1"/><polygon points="40,120 442,-453 466,-435" fill="#ff0033" opacity="0.1"/><polygon points="40,120 490,-416 513,-396" fill="#ff0033" opacity="0.1"/><polygon points="40,120 535,-375 556,-353" fill="#ff0033" opacity="0.1"/><polygon points="40,120 576,-330 595,-306" fill="#ff0033" opacity="0.1"/><polygon points="40,120 613,-282 630,-256" fill="#ff0033" opacity="0.1"/><polygon points="40,120 646,-230 661,-203" fill="#ff0033" opacity="0.1"/><polygon points="40,120 674,-176 687,-148" fill="#ff0033" opacity="0.1"/><polygon points="40,120 698,-119 708,-90" fill="#ff0033" opacity="0.1"/><polygon points="40,120 716,-61 723,-32" fill="#ff0033" opacity="0.1"/></g>
+<polygon points="0,10 600,4 570,80 0,84" fill="#b0001e"/><polygon points="0,10 600,4 570,80 0,84" fill="url(#halfr)"/>
+<polygon points="600,4 622,4 592,80 570,80" fill="#f2e6cf"/>
+<rect width="1000" height="86" filter="url(#paper)"/>
+<rect x="18" y="22" width="92" height="22" fill="#0a0a0a"/><text x="26" y="38" style="font-family:'Courier New',Consolas,'DejaVu Sans Mono',monospace;font-weight:bold" font-size="13" fill="#00f0ff">OPS//04</text>
+<g transform="skewX(-10)"><text x="140" y="62" text-anchor="start" font-size="38" style="font-weight:900;font-family:Impact,Haettenschweiler,'Franklin Gothic Heavy','Arial Black','Arial Narrow Bold',sans-serif;letter-spacing:3px" textLength="175" lengthAdjust="spacingAndGlyphs" fill="#00f0ff" opacity=".8" class="glA">LOADOUT</text><text x="140" y="62" text-anchor="start" font-size="38" style="font-weight:900;font-family:Impact,Haettenschweiler,'Franklin Gothic Heavy','Arial Black','Arial Narrow Bold',sans-serif;letter-spacing:3px" textLength="175" lengthAdjust="spacingAndGlyphs" fill="#ff2bd6" opacity=".8" class="glB">LOADOUT</text><text x="140" y="62" text-anchor="start" font-size="38" style="font-weight:900;font-family:Impact,Haettenschweiler,'Franklin Gothic Heavy','Arial Black','Arial Narrow Bold',sans-serif;letter-spacing:3px" textLength="175" lengthAdjust="spacingAndGlyphs" fill="#f2e6cf">LOADOUT</text></g><rect x="130" y="47" width="185" height="2" fill="#b0001e" opacity=".9"/>
+<text x="650" y="36" style="font-family:'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#f2e6cf">TECH STACK</text>
+<text x="650" y="58" style="font-family:'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#39ff6a">GRID 04-D · KIT CHECKED</text>
+<g transform="translate(960 43)" stroke="#ff0033" fill="none" stroke-width="1.5"><circle r="16"/><path d="M-24 0h14M10 0h14M0 -24v14M0 10v14"/><circle r="2" fill="#ff0033"/></g>
+<rect width="1000" height="86" fill="url(#scan)"/><path d="M0 85H1000" stroke="#ff2bd6" stroke-width="2" opacity=".7"/></svg>
