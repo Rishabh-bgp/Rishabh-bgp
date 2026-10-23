@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="150" viewBox="0 0 320 150" role="img" aria-label="ID tag: Rishabh Aryan, callsign RA-01, M.Tech AI and Data Science, IIIT Bhagalpur">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="190" viewBox="0 0 340 190" role="img" aria-label="ID tag: Rishabh Aryan, callsign RA-01, M.Tech AI and Data Science; IIIT Bhagalpur, IIT Jammu Summer School 2026, IIT Ropar × NIELIT Ropar">
 <defs><linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9d4c4"/><stop offset=".5" stop-color="#9c9a8c"/><stop offset="1" stop-color="#c8c4b4"/></linearGradient></defs>
-<path d="M8 150 Q60 120 70 75" stroke="#777" stroke-width="2" fill="none" stroke-dasharray="3 3"/>
-<rect x="60" y="14" width="250" height="122" rx="40" fill="url(#m)" stroke="#55534a" stroke-width="2"/><circle cx="92" cy="75" r="8" fill="#0a0a0a"/>
-<g style="font-family:'Courier New',Consolas,'DejaVu Sans Mono',monospace;font-weight:bold" fill="#2a2a24" font-size="15"><text x="112" y="46">ARYAN, RISHABH</text><text x="112" y="68">CALLSIGN RA-01</text><text x="112" y="90">M.TECH AI &amp; DS</text><text x="112" y="112">IIIT BHAGALPUR</text></g></svg>
+<path d="M8 190 Q50 160 62 95" stroke="#777" stroke-width="2" fill="none" stroke-dasharray="3 3"/>
+<rect x="50" y="10" width="282" height="170" rx="46" fill="url(#m)" stroke="#55534a" stroke-width="2"/><circle cx="84" cy="95" r="8" fill="#0a0a0a"/>
+<g style="font-family:'Courier New',Consolas,'DejaVu Sans Mono',monospace;font-weight:bold" fill="#2a2a24" font-size="14"><text x="104" y="42">ARYAN, RISHABH</text><text x="104" y="62">CALLSIGN RA-01</text><text x="104" y="82">M.TECH AI &amp; DS</text>
+<text x="104" y="110" font-size="12">IIIT BHAGALPUR</text><text x="104" y="128" font-size="12" textLength="200" lengthAdjust="spacingAndGlyphs">IIT JAMMU SUMMER SCH. 2026</text><text x="104" y="146" font-size="12" textLength="200" lengthAdjust="spacingAndGlyphs">IIT ROPAR × NIELIT ROPAR</text></g></svg>

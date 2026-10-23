@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="./assets/hud-banner.svg" alt="Banner in a cyberpunk, machine-vision and tactical HUD style: RISHABH ARYAN, callsign RA-01, AI/ML Researcher and R&D Engineer, with a targeting reticle and radar sweep" width="100%"/>
+<img src="./assets/hud-banner.svg" alt="Banner in a cyberpunk, machine-vision and tactical HUD style: RISHABH ARYAN, callsign RA-01, AI/ML Researcher and R&D Engineer. IIIT Bhagalpur · IIT Jammu Summer School 2026 · IIT Ropar × NIELIT Ropar" width="100%"/>
 
 <img src="./assets/typing.svg" alt="Typing animation: ML that holds up under scrutiny"/>
 
 ![M.Tech AI & Data Science](https://img.shields.io/badge/M.Tech-AI%20%26%20Data%20Science-ff0033?style=for-the-badge&labelColor=0a0a0a)
 ![IIIT Bhagalpur](https://img.shields.io/badge/IIIT-Bhagalpur-00f0ff?style=for-the-badge&labelColor=0a0a0a)
+![IIT Jammu Summer School 2026](https://img.shields.io/badge/IIT%20Jammu-Summer%20School%202026-ff0033?style=for-the-badge&labelColor=0a0a0a)
 ![IIT Ropar × NIELIT Ropar](https://img.shields.io/badge/IIT%20Ropar%20×%20NIELIT%20Ropar-AI%2FML%20Program-39ff6a?style=for-the-badge&labelColor=0a0a0a)
 ![Real Estate ML Trilogy](https://img.shields.io/badge/CAPSTONES-Real%20Estate%20ML%20Trilogy-ff2bd6?style=for-the-badge&labelColor=0a0a0a)
 
@@ -18,6 +19,8 @@
   NAME     Rishabh Aryan
   ROLE     AI/ML Researcher & R&D Engineer
   BASE     M.Tech, AI & Data Science @ IIIT Bhagalpur
+  AFFIL    IIIT Bhagalpur · IIT Jammu Summer School 2026
+           · IIT Ropar × NIELIT Ropar
   OBJECTIVE
     Machine learning that holds up under scrutiny:
     leakage-aware benchmarks, honest evaluation,
@@ -26,9 +29,21 @@
 
 </td><td align="center">
 
-<img src="./assets/dog-tag.svg" alt="ID tag: ARYAN, RISHABH · CALLSIGN RA-01 · M.TECH AI & DS · IIIT BHAGALPUR" width="260"/>
+<img src="./assets/dog-tag.svg" alt="ID tag: ARYAN, RISHABH · CALLSIGN RA-01 · M.TECH AI & DS · IIIT BHAGALPUR · IIT JAMMU SUMMER SCHOOL 2026 · IIT ROPAR × NIELIT ROPAR" width="290"/>
 
 </td></tr></table>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<img src="./assets/h-deploy.svg" alt="FIELD DEPLOYMENT: IIT Jammu Summer School 2026" width="100%"/>
+
+<a href="https://github.com/Rishabh-bgp/cobratate"><img src="./assets/iit-jammu.svg" alt="IIT Jammu Summer School 2026, internship in AI (LLMs, GenAI, Automation & AI Agents), 10 Jun – 10 Aug 2026, with Techible and I3C IIT Jammu. Built Cobratate, an esoteric programming language, in a 24-hour hackathon" width="100%"/></a>
+
+> **🎯 Internship: AI (LLMs, GenAI, Automation & AI Agents)** · Summer School 2026, **IIT Jammu**, in collaboration with
+> **Techible** and **I3C IIT Jammu** · **10 Jun – 10 Aug 2026**
+>
+> **Hackathon op:** built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate), an esoteric programming language
+> with a Python interpreter, in a **24-hour hackathon** at IIT Jammu. [▶ Try it live](https://rishabh-bgp.github.io/cobratate/)
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
