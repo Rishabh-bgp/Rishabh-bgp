@@ -127,12 +127,12 @@
 <img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 23 Oct 2026: 40 public repositories (34 original, 6 forks), 11 live apps and sites all returning HTTP 200, 8 featured ML projects, 3 real estate capstones" width="100%"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-bgp&layout=compact&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&border_color=ff0033" alt="Most used languages of Rishabh-bgp"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-bgp&layout=compact&cache_seconds=21600&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&border_color=ff0033" alt="Most used languages of Rishabh-bgp"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rishabh-bgp&background=0a0a0a&border=ff0033&ring=ff2bd6&fire=39ff6a&currStreakLabel=ff0033&sideLabels=00f0ff&currStreakNum=00f0ff&sideNums=00f0ff&dates=8a8a8a" alt="GitHub contribution streak for Rishabh-bgp"/>
-</p>
+<img src="./assets/contrib-card.svg" alt="Contribution telemetry from the GitHub GraphQL API: total contributions, this year, current and longest streak (date stamped on the card)" width="100%"/>
+<sub>The contribution card is generated from GitHub's GraphQL API by <code>scripts/contrib_card.py</code> and refreshed daily by a GitHub Action, so it does not depend on third-party image caches.</sub>
+
 ```text
 > sitrep
   ALL SYSTEMS ONLINE — open to research collaborations in applied ML.
