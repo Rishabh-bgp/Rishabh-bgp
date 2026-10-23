@@ -79,9 +79,9 @@
 
 | Part | Operation | Theatre | Live | Deployed model (repeated K-fold CV) |
 |:---:|---|---|---|---|
-| ★ I | [**real-estate-valuation-taiwan**](https://github.com/Rishabh-bgp/real-estate-valuation-taiwan) | Xindian, New Taipei · 414 sales | [▶ open](https://rishabh-bgp.github.io/real-estate-valuation-taiwan/) | R² **0.715** · RMSE 7.136 · MAE 4.551 (10k TWD/ping) |
-| ★ II | [**boston-house-price-prediction**](https://github.com/Rishabh-bgp/boston-house-price-prediction) | Boston, USA · 506 tracts | [▶ open](https://rishabh-bgp.github.io/boston-house-price-prediction/) | R² **0.877** · RMSE 3.157 · MAE 2.119 ($1000s) |
-| ★ III | [**california-house-price-prediction**](https://github.com/Rishabh-bgp/california-house-price-prediction) | California, USA · 20,640 block groups | [▶ open](https://rishabh-bgp.github.io/california-house-price-prediction/) | R² **0.840** · RMSE 0.461 · MAE 0.291 ($100k) |
+| ◆ I | [**real-estate-valuation-taiwan**](https://github.com/Rishabh-bgp/real-estate-valuation-taiwan) | Xindian, New Taipei · 414 sales | [▶ open](https://rishabh-bgp.github.io/real-estate-valuation-taiwan/) | R² **0.715** · RMSE 7.136 · MAE 4.551 (10k TWD/ping) |
+| ◆ II | [**boston-house-price-prediction**](https://github.com/Rishabh-bgp/boston-house-price-prediction) | Boston, USA · 506 tracts | [▶ open](https://rishabh-bgp.github.io/boston-house-price-prediction/) | R² **0.877** · RMSE 3.157 · MAE 2.119 ($1000s) |
+| ◆ III | [**california-house-price-prediction**](https://github.com/Rishabh-bgp/california-house-price-prediction) | California, USA · 20,640 block groups | [▶ open](https://rishabh-bgp.github.io/california-house-price-prediction/) | R² **0.840** · RMSE 0.461 · MAE 0.291 ($100k) |
 
 <sub>Personal portfolio projects on public datasets, text credit only. They are not endorsed by, or official products of, KFPN or Knight Frank.</sub>
 
