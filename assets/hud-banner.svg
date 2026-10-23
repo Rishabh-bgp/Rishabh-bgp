@@ -1,44 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="SYSTEM ONLINE // RISHABH ARYAN // AI/ML RESEARCHER &amp; R&amp;D ENGINEER">
-  <defs>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#ff0033" opacity="0.06"/></pattern>
-    <radialGradient id="glow" cx="80%" cy="50%" r="45%"><stop offset="0" stop-color="#ff0033" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
-    <linearGradient id="sweep" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#ff0033" stop-opacity="0"/><stop offset="0.5" stop-color="#ff0033" stop-opacity="0.25"/><stop offset="1" stop-color="#ff0033" stop-opacity="0"/></linearGradient>
-    <style>
-      .t{font-family:'Courier New',Consolas,monospace;fill:#ff0033}
-      .c{font-family:'Courier New',Consolas,monospace;fill:#00f0ff}
-      .blink{animation:b 1.1s steps(2) infinite}
-      @keyframes b{50%{opacity:0}}
-      .glitch{animation:g 3.2s infinite}
-      @keyframes g{0%,92%,100%{transform:translate(0,0)}93%{transform:translate(-3px,1px)}95%{transform:translate(3px,-1px)}97%{transform:translate(-1px,0)}}
-      .l1,.l2,.l3,.l4{opacity:0;animation:in .4s forwards}
-      .l1{animation-delay:.3s}.l2{animation-delay:1s}.l3{animation-delay:1.7s}.l4{animation-delay:2.4s}
-      @keyframes in{to{opacity:1}}
-      .spin{transform-origin:830px 130px;animation:s 8s linear infinite}
-      @keyframes s{to{transform:rotate(360deg)}}
-      .sw{animation:sw 3s linear infinite}
-      @keyframes sw{from{transform:translateY(-80px)}to{transform:translateY(260px)}}
-    </style>
-  </defs>
-  <rect width="1000" height="260" fill="#000"/>
-  <rect width="1000" height="260" fill="url(#glow)"/>
-  <rect class="sw" width="1000" height="70" fill="url(#sweep)"/>
-  <rect width="1000" height="260" fill="url(#scan)"/>
-  <path d="M10 40V10h30M960 10h30v30M990 220v30h-30M40 250H10v-30" stroke="#ff0033" stroke-width="2" fill="none"/>
-  <text class="t" x="40" y="48" font-size="14" opacity=".8">[ HUD v2.6 ] :: VISUAL ANALYSIS MODE</text>
-  <g class="glitch">
-    <text class="t" x="40" y="100" font-size="22" font-weight="bold">SYSTEM ONLINE // RISHABH ARYAN</text>
-    <text class="c" x="40" y="132" font-size="18">AI/ML RESEARCHER &amp; R&amp;D ENGINEER</text>
-  </g>
-  <text class="t l1" x="40" y="172" font-size="13">&gt; scanning... threat level: high-performance</text>
-  <text class="t l2" x="40" y="192" font-size="13">&gt; modules: EEG // GENOMICS // NLP // WEB</text>
-  <text class="t l3" x="40" y="212" font-size="13">&gt; leakage check ........ PASSED</text>
-  <text class="c l4" x="40" y="232" font-size="13">&gt; awaiting next mission<tspan class="blink">_</tspan></text>
-  <g stroke="#ff0033" fill="none">
-    <circle cx="830" cy="130" r="80" stroke-width="1.5" opacity=".7"/>
-    <circle cx="830" cy="130" r="50" stroke-width="1" opacity=".5"/>
-    <g class="spin"><path d="M830 42v24M830 194v24M742 130h24M894 130h24" stroke-width="2"/><path d="M830 50a80 80 0 0 1 56 23" stroke="#00f0ff" stroke-width="3"/></g>
-    <circle cx="830" cy="130" r="4" fill="#ff0033"/>
-  </g>
-  <text class="t" x="760" y="236" font-size="11" opacity=".8">TARGET LOCK: ACQUIRED</text>
-  <text class="c" x="760" y="30" font-size="11" opacity=".8">SECTOR: R&amp;D // ONLINE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="Personnel dossier: RISHABH ARYAN — AI/ML Researcher and R&amp;D Engineer">
+<defs><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c1121f"/><stop offset="1" stop-color="#8b0000"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#111114"/><stop offset=".55" stop-color="#1b2340"/><stop offset="1" stop-color="#5a0008"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#8a6a10"/><stop offset=".5" stop-color="#f3d27a"/><stop offset="1" stop-color="#8a6a10"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#d4a017" opacity=".05"/></pattern></defs><style>.h{font-family:'Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif;font-stretch:condensed;font-weight:800;fill:#f5ecd7;letter-spacing:4px}.g{font-family:'Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif;font-stretch:condensed;font-weight:700;fill:#d4a017;letter-spacing:3px}.m{font-family:'Courier New',Consolas,monospace;fill:#e8c76a}
+.blink{animation:b 1.2s steps(2) infinite}@keyframes b{50%{opacity:0}}.in{opacity:0;animation:i .5s forwards}.d1{animation-delay:.2s}.d2{animation-delay:.8s}.d3{animation-delay:1.4s}@keyframes i{to{opacity:1}}
+.pulse{transform-origin:850px 135px;animation:p 4s ease-in-out infinite}@keyframes p{50%{transform:scale(1.04)}}</style>
+<rect width="1000" height="270" fill="url(#bg)"/><rect width="1000" height="270" fill="url(#scan)"/>
+<rect x="8" y="8" width="984" height="254" fill="none" stroke="url(#gold)" stroke-width="3"/><rect x="16" y="16" width="968" height="238" fill="none" stroke="#d4a017" stroke-width="1" opacity=".5"/>
+<rect x="16" y="16" width="968" height="30" fill="#8b0000" opacity=".85"/>
+<text x="34" y="37" class="g" font-size="15">PERSONNEL DOSSIER · FILE RA-2026 · CLEARANCE: OPEN SOURCE</text><text x="964" y="37" class="m" font-size="13" text-anchor="end">STATUS: ACTIVE<tspan class="blink"> ▮</tspan></text>
+<text x="40" y="112" class="h in d1" font-size="64">RISHABH ARYAN</text>
+<rect x="40" y="128" width="430" height="3" fill="url(#gold)"/>
+<text x="40" y="160" class="g in d2" font-size="22">AI / ML RESEARCHER · R&amp;D ENGINEER</text>
+<text x="40" y="196" class="m in d3" font-size="15">&gt; M.Tech AI &amp; Data Science · IIIT Bhagalpur</text>
+<text x="40" y="220" class="m in d3" font-size="15">&gt; IIT Ropar × NIELIT Ropar AI &amp; ML programme</text>
+<g class="pulse"><circle cx="850" cy="135" r="92" fill="none" stroke="#d4a017" stroke-width="2"/><circle cx="850" cy="135" r="82" fill="none" stroke="#d4a017" stroke-width="1" stroke-dasharray="3 5"/><polygon points="850.0,73.0 865.0,119.3 913.7,119.3 874.3,147.9 889.4,194.2 850.0,165.6 810.6,194.2 825.7,147.9 786.3,119.3 835.0,119.3" fill="#d4a017"/><polygon points="850.0,78.0 863.9,120.8 909.0,120.8 872.5,147.3 886.4,190.2 850.0,163.7 813.6,190.2 827.5,147.3 791.0,120.8 836.1,120.8" fill="url(#red)"/><polygon points="850.0,105.9 857.7,129.5 882.4,129.5 862.4,144.0 870.0,167.6 850.0,153.0 830.0,167.6 837.6,144.0 817.6,129.5 842.3,129.5" fill="none" stroke="#f3d27a" stroke-width="1.2" opacity=".7"/></g>
+<g fill="#d4a017"><rect x="690" y="228" width="40" height="6"/><rect x="690" y="238" width="40" height="6"/><rect x="740" y="228" width="40" height="6"/></g>
 </svg>

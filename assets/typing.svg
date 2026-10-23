@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="44" viewBox="0 0 700 44" role="img" aria-label="AI/ML Researcher and R&amp;D Engineer">
-  <style>
-    .t{font-family:'Courier New',Consolas,monospace;font-size:22px;fill:#ff0033}
-    .cur{animation:b .8s steps(2) infinite;fill:#ff0033}
-    @keyframes b{50%{opacity:0}}
-  </style>
-  <rect width="700" height="44" fill="#000"/>
-  <clipPath id="cp"><rect x="20" y="0" height="44" width="0"><animate attributeName="width" values="0;560;560;0;0" keyTimes="0;0.35;0.7;0.85;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
-  <text class="t" x="20" y="29" clip-path="url(#cp)">&gt; AI/ML Researcher &amp; R&amp;D Engineer</text>
-  <rect class="cur" x="590" y="12" width="12" height="22"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="46" viewBox="0 0 700 46" role="img" aria-label="AI/ML Researcher and R&amp;D Engineer">
+<style>.t{font-family:'Courier New',Consolas,monospace;font-size:22px;fill:#d4a017;font-weight:bold}.cur{animation:b .8s steps(2) infinite;fill:#c1121f}@keyframes b{50%{opacity:0}}</style>
+<rect width="700" height="46" fill="#111114"/><rect x="1" y="1" width="698" height="44" fill="none" stroke="#8b0000" stroke-width="2"/>
+<clipPath id="cp"><rect x="20" y="0" height="46" width="0"><animate attributeName="width" values="0;560;560;0;0" keyTimes="0;0.35;0.7;0.85;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<text class="t" x="20" y="30" clip-path="url(#cp)">&gt; AI/ML Researcher &amp; R&amp;D Engineer</text><rect class="cur" x="590" y="12" width="12" height="22"/></svg>
