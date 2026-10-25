@@ -123,11 +123,11 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| • | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting | repo live · demo pending |
-| • | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model | repo live · demo pending |
-| • | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting | repo live · demo pending |
-| • | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance | repo live · demo pending |
-| • | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations | repo live · demo pending |
+| `04 ☷ 坤 Kun` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting | repo live · demo pending |
+| `05 ☲ 離 Li` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model | repo live · demo pending |
+| `09+13 ☵ 坎 Kan` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting | repo live · demo pending |
+| `14 ☳ 震 Zhen` | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance | repo live · demo pending |
+| `15 ☱ 兌 Dui` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations | repo live · demo pending |
 
 <!-- TRACK C :: MARIYA (5 repos, not published yet). To add: copy a TRACK block above, set the heading to
      "### `> TRACK C :: MARIYA`", add one table row per repo, then bump THESIS REPOS in assets/scorecard.svg. -->
