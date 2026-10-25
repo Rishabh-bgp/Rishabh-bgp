@@ -110,27 +110,36 @@
 
 Wind power forecasting reference implementations: clean Python rebuilds on synthetic data, because the original SCADA data is confidential. Results will differ from the published papers.
 
-### `> TRACK A :: RISHABH`
+### `> QUANTUM AND HYBRID QUANTUM MACHINE LEARNING`
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| `08 ☰ 乾 Qian` | [**hybrid-vqc-wind-speed-forecasting**](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) | Hybrid variational quantum circuit (Conv1D-LSTM + VQC) wind speed forecasting, PyTorch + PennyLane | [▶ open](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) |
-| `10 ☵ 坎 Kan` | [**cbma-tn-vqc-wind-green-hydrogen**](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) | CNN-BiLSTM-MultiHead attention + tensor network + VQC for wind forecasting and green hydrogen | [▶ open](https://rishabh-bgp.github.io/cbma-tn-vqc-wind-green-hydrogen/) |
-| `12 ☶ 艮 Gen` | [**hcq-lstm-clqgwo-wind-forecasting**](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) | Physics-informed hybrid classical-quantum LSTM tuned by a chaotic Lévy-flight quantum-inspired grey wolf optimiser | [▶ open](https://rishabh-bgp.github.io/hcq-lstm-clqgwo-wind-forecasting/) |
-| `16 ☴ 巽 Xun` | [**rso-net-wind-grid-stabilization**](https://github.com/Rishabh-bgp/rso-net-wind-grid-stabilization) | RSO-Net: recursive self-optimising TCN-attention probabilistic forecasting with human-approved grid-stabilisation proposals | [▶ open](https://rishabh-bgp.github.io/rso-net-wind-grid-stabilization/) |
+| `08 ☰ 乾 Qian` | [**hybrid-vqc-wind-speed-forecasting**](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) | Hybrid variational quantum circuit (Conv1D-LSTM + VQC), PyTorch + PennyLane | [▶ open](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) |
+| `10 ☵ 坎 Kan` | [**cbma-tn-vqc-wind-green-hydrogen**](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) | CNN-BiLSTM-MultiHead attention + tensor-network VQC, wind forecasting for green hydrogen | [▶ open](https://rishabh-bgp.github.io/cbma-tn-vqc-wind-green-hydrogen/) |
+| `12 ☶ 艮 Gen` | [**hcq-lstm-clqgwo-wind-forecasting**](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) | Physics-informed hybrid classical-quantum LSTM tuned by a chaotic Lévy-flight quantum-inspired grey wolf optimizer | [▶ open](https://rishabh-bgp.github.io/hcq-lstm-clqgwo-wind-forecasting/) |
 
-### `> TRACK B :: SARAH`
+### `> METAHEURISTIC-OPTIMIZED HYBRIDS`
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| `04 ☷ 坤 Kun` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting. 1-h RMSE **0.67** vs 0.73 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/geoai-hybrid-ga-pso-anfis-wind-forecasting/) |
-| `05 ☲ 離 Li` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/xai-shap-lime-cnn-bilstm-attention-wind/) |
-| `09+13 ☵ 坎 Kan` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting. 1-h RMSE **0.97** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/wuweidl-daoist-gated-wind-forecasting/) |
+| `04 ☷ 坤 Kun` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid: GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site forecasting. 1-h RMSE **0.67** vs 0.73 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/geoai-hybrid-ga-pso-anfis-wind-forecasting/) |
+
+### `> DEEP LEARNING WITH ATTENTION AND GATING`
+
+| | Repository | What it is | Live |
+|:---:|---|---|---|
+| `05 ☲ 離 Li` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable CNN-BiLSTM-Attention forecasting with SHAP and LIME. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/xai-shap-lime-cnn-bilstm-attention-wind/) |
+| `09+13 ☵ 坎 Kan` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding. 1-h RMSE **0.97** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/wuweidl-daoist-gated-wind-forecasting/) |
+| `16 ☴ 巽 Xun` | [**rso-net-wind-grid-stabilization**](https://github.com/Rishabh-bgp/rso-net-wind-grid-stabilization) | RSO-Net: recursive self-optimizing TCN-Attention probabilistic forecasting with grid-stabilization proposals | [▶ open](https://rishabh-bgp.github.io/rso-net-wind-grid-stabilization/) |
+
+### `> IOT, AUTOMATION AND MULTI-AGENT SYSTEMS`
+
+| | Repository | What it is | Live |
+|:---:|---|---|---|
 | `14 ☳ 震 Zhen` | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance. 1-h RMSE **1.00** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/iot-n8n-wind-turbine-predictive-maintenance/) |
-| `15 ☱ 兌 Dui` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/multi-agent-turbine-fleet-chief-of-staff/) |
+| `15 ☱ 兌 Dui` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent AI chief of staff for wind-turbine fleet operations. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/multi-agent-turbine-fleet-chief-of-staff/) |
 
-<!-- TRACK C :: MARIYA (5 repos, not published yet). To add: copy a TRACK block above, set the heading to
-     "### `> TRACK C :: MARIYA`", add one table row per repo, then bump THESIS REPOS in assets/scorecard.svg. -->
+<!-- THESIS-PLACEHOLDER: add further thesis repos as rows in the matching group, ordered by paper number; then update THESIS REPOS in assets/scorecard.svg. -->
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
