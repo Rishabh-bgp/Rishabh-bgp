@@ -114,20 +114,20 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| `☰` | [**hybrid-vqc-wind-speed-forecasting**](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) | Hybrid variational quantum circuit (Conv1D-LSTM + VQC) wind speed forecasting, PyTorch + PennyLane | [▶ open](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) |
-| `☱` | [**cbma-tn-vqc-wind-green-hydrogen**](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) | CNN-BiLSTM-MultiHead attention + tensor network + VQC for wind forecasting and green hydrogen | [▶ open](https://rishabh-bgp.github.io/cbma-tn-vqc-wind-green-hydrogen/) |
-| `☲` | [**hcq-lstm-clqgwo-wind-forecasting**](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) | Physics-informed hybrid classical-quantum LSTM tuned by a chaotic Lévy-flight quantum-inspired grey wolf optimiser | [▶ open](https://rishabh-bgp.github.io/hcq-lstm-clqgwo-wind-forecasting/) |
-| `☳` | [**rso-net-wind-grid-stabilization**](https://github.com/Rishabh-bgp/rso-net-wind-grid-stabilization) | RSO-Net: recursive self-optimising TCN-attention probabilistic forecasting with human-approved grid-stabilisation proposals | [▶ open](https://rishabh-bgp.github.io/rso-net-wind-grid-stabilization/) |
+| `08 ☰ 乾 Qian` | [**hybrid-vqc-wind-speed-forecasting**](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) | Hybrid variational quantum circuit (Conv1D-LSTM + VQC) wind speed forecasting, PyTorch + PennyLane | [▶ open](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) |
+| `10 ☵ 坎 Kan` | [**cbma-tn-vqc-wind-green-hydrogen**](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) | CNN-BiLSTM-MultiHead attention + tensor network + VQC for wind forecasting and green hydrogen | [▶ open](https://rishabh-bgp.github.io/cbma-tn-vqc-wind-green-hydrogen/) |
+| `12 ☶ 艮 Gen` | [**hcq-lstm-clqgwo-wind-forecasting**](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) | Physics-informed hybrid classical-quantum LSTM tuned by a chaotic Lévy-flight quantum-inspired grey wolf optimiser | [▶ open](https://rishabh-bgp.github.io/hcq-lstm-clqgwo-wind-forecasting/) |
+| `16 ☴ 巽 Xun` | [**rso-net-wind-grid-stabilization**](https://github.com/Rishabh-bgp/rso-net-wind-grid-stabilization) | RSO-Net: recursive self-optimising TCN-attention probabilistic forecasting with human-approved grid-stabilisation proposals | [▶ open](https://rishabh-bgp.github.io/rso-net-wind-grid-stabilization/) |
 
 ### `> TRACK B :: SARAH`
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| `☴` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting | repo live · demo pending |
-| `☵` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model | repo live · demo pending |
-| `☶` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting | repo live · demo pending |
-| `☷` | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance | repo live · demo pending |
-| `☰` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations | repo live · demo pending |
+| • | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting | repo live · demo pending |
+| • | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model | repo live · demo pending |
+| • | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting | repo live · demo pending |
+| • | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance | repo live · demo pending |
+| • | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations | repo live · demo pending |
 
 <!-- TRACK C :: MARIYA (5 repos, not published yet). To add: copy a TRACK block above, set the heading to
      "### `> TRACK C :: MARIYA`", add one table row per repo, then bump THESIS REPOS in assets/scorecard.svg. -->
