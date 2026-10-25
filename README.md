@@ -9,6 +9,7 @@
 ![IIT Jammu Summer School 2026](https://img.shields.io/badge/IIT%20Jammu-Summer%20School%202026-ff0033?style=for-the-badge&labelColor=0a0a0a)
 ![IIT Ropar × NIELIT Ropar](https://img.shields.io/badge/IIT%20Ropar%20×%20NIELIT%20Ropar-AI%2FML%20Program-39ff6a?style=for-the-badge&labelColor=0a0a0a)
 ![Real Estate ML Trilogy](https://img.shields.io/badge/CAPSTONES-Real%20Estate%20ML%20Trilogy-ff2bd6?style=for-the-badge&labelColor=0a0a0a)
+![M.Tech Thesis · IIIT Bhagalpur](https://img.shields.io/badge/THESIS-M.Tech%20Thesis%20·%20IIIT%20Bhagalpur-ffd400?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
@@ -105,6 +106,12 @@
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="./assets/h-thesis.svg" alt="THESIS WORK: M.Tech in AI and Data Science, IIIT Bhagalpur" width="100%"/>
+
+<div align="center">
+
+**M.Tech thesis, IIIT Bhagalpur: 14 wind power forecasting reference implementations in five method groups**
+
+</div>
 
 ## M.Tech in AI and Data Science, IIIT Bhagalpur: Thesis Work
 
@@ -271,7 +278,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/h-telemetry.svg" alt="SCORECARD: verified stats" width="100%"/>
 
-<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 50 public repositories (44 original, 6 forks), 19 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 9 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
+<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 54 public repositories (48 original, 6 forks), 23 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
