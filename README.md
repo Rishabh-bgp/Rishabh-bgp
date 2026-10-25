@@ -9,7 +9,7 @@
 ![IIT Jammu Summer School 2026](https://img.shields.io/badge/IIT%20Jammu-Summer%20School%202026-ff0033?style=for-the-badge&labelColor=0a0a0a)
 ![IIT Ropar × NIELIT Ropar](https://img.shields.io/badge/IIT%20Ropar%20×%20NIELIT%20Ropar-AI%2FML%20Program-39ff6a?style=for-the-badge&labelColor=0a0a0a)
 ![Real Estate ML Trilogy](https://img.shields.io/badge/CAPSTONES-Real%20Estate%20ML%20Trilogy-ff2bd6?style=for-the-badge&labelColor=0a0a0a)
-![M.Tech Thesis · IIIT Bhagalpur](https://img.shields.io/badge/THESIS-M.Tech%20Thesis%20·%20IIIT%20Bhagalpur-ffd400?style=for-the-badge&labelColor=0a0a0a)
+[![Thesis: An Investigation into Advanced Techniques for Wind Speed Forecasting with Applications to Renewable Energy Grid Integration](https://img.shields.io/badge/THESIS-Wind%20Speed%20Forecasting%20%26%20Grid%20Integration-ffd400?style=for-the-badge&labelColor=0a0a0a)](#mtech-in-ai-and-data-science-iiit-bhagalpur-thesis-work)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-**M.Tech thesis, IIIT Bhagalpur: 14 wind power forecasting reference implementations in five method groups**
+M.Tech thesis: ***An Investigation into Advanced Techniques for Wind Speed Forecasting with Applications to Renewable Energy Grid Integration***<br/>14 reference implementations in five method groups
 
 </div>
 
