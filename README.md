@@ -123,11 +123,11 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 | | Repository | What it is | Live |
 |:---:|---|---|---|
-| `04 ☷ 坤 Kun` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting | repo live · demo pending |
-| `05 ☲ 離 Li` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model | repo live · demo pending |
-| `09+13 ☵ 坎 Kan` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting | repo live · demo pending |
-| `14 ☳ 震 Zhen` | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance | repo live · demo pending |
-| `15 ☱ 兌 Dui` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations | repo live · demo pending |
+| `04 ☷ 坤 Kun` | [**geoai-hybrid-ga-pso-anfis-wind-forecasting**](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) | GeoAI hybrid GA → PSO → ANFIS → CNN-LSTM probabilistic multi-site wind forecasting. 1-h RMSE **0.67** vs 0.73 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/geoai-hybrid-ga-pso-anfis-wind-forecasting/) |
+| `05 ☲ 離 Li` | [**xai-shap-lime-cnn-bilstm-attention-wind**](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) | Explainable wind speed forecasting: SHAP, LIME and attention on a CNN-BiLSTM-Attention model. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/xai-shap-lime-cnn-bilstm-attention-wind/) |
+| `09+13 ☵ 坎 Kan` | [**wuweidl-daoist-gated-wind-forecasting**](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) | WuWeiDL: Wu Wei gating and Feng-Qi turbulence encoding for wind speed forecasting. 1-h RMSE **0.97** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/wuweidl-daoist-gated-wind-forecasting/) |
+| `14 ☳ 震 Zhen` | [**iot-n8n-wind-turbine-predictive-maintenance**](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) | IoT + forecasting + n8n automation for wind-turbine predictive maintenance. 1-h RMSE **1.00** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/iot-n8n-wind-turbine-predictive-maintenance/) |
+| `15 ☱ 兌 Dui` | [**multi-agent-turbine-fleet-chief-of-staff**](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) | Multi-agent "AI chief of staff" for wind-turbine fleet operations. 1-h RMSE **1.01** vs 1.08 persistence (m/s, synthetic data) | [▶ open](https://rishabh-bgp.github.io/multi-agent-turbine-fleet-chief-of-staff/) |
 
 <!-- TRACK C :: MARIYA (5 repos, not published yet). To add: copy a TRACK block above, set the heading to
      "### `> TRACK C :: MARIYA`", add one table row per repo, then bump THESIS REPOS in assets/scorecard.svg. -->
@@ -252,7 +252,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/h-telemetry.svg" alt="SCORECARD: verified stats" width="100%"/>
 
-<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 50 public repositories (44 original, 6 forks), 14 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 9 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
+<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 50 public repositories (44 original, 6 forks), 19 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 9 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
