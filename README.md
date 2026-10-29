@@ -74,6 +74,7 @@
 | [**california-house-price-prediction**](https://github.com/Rishabh-bgp/california-house-price-prediction) | Capstone: California block-group value prediction: gradient boosting, spatial CV, $500k cap handled, FastAPI, Leaflet map app | [▶ open](https://rishabh-bgp.github.io/california-house-price-prediction/) |
 | [**iris-classification**](https://github.com/Rishabh-bgp/iris-classification) | Iris classifier: scikit-learn model comparison, FastAPI `/predict`, Docker, CI and an in-browser ML demo | [▶ open](https://rishabh-bgp.github.io/iris-classification/) |
 | [**machine-learning-part-1**](https://github.com/Rishabh-bgp/machine-learning-part-1) | Heart-disease classification & insurance-cost regression with scikit-learn | — |
+| [**machine-learning-part-2**](https://github.com/Rishabh-bgp/machine-learning-part-2) | Computer vision with YOLO11: detection, segmentation, pose & potato leaf disease classification (99.5% top-1) | — |
 | [**NIELIT-MACHINE-LEARNING-PROJECTS**](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end ML projects with runnable notebooks | — |
 
 ### `> SECTOR 02 :: FIELD OPERATIONS`
@@ -278,7 +279,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/h-telemetry.svg" alt="SCORECARD: verified stats" width="100%"/>
 
-<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 54 public repositories (48 original, 6 forks), 23 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
+<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 26 Oct 2026: 55 public repositories (49 original, 6 forks), 23 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
