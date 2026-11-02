@@ -101,7 +101,7 @@
 
 | Project | What it is | Live |
 |---|---|---|
-| [**coda-synth**](https://github.com/Rishabh-bgp/coda-synth) | Stylometric detection of LLM-rewritten dark-web documents with sparse TF-IDF + LinearSVC (public/synthetic corpora only) | [▶ open](https://shale-ember-delta-kite.grok.me/) |
+| [**coda-synth**](https://github.com/Rishabh-bgp/coda-synth) | Stylometric detection of LLM-rewritten dark-web documents with sparse TF-IDF + LinearSVC (public/synthetic corpora only) | — |
 | [**morocco-city-aware-load-forecasting**](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting) | City-aware short-term load forecasting and peak detection on Moroccan smart-meter data (5 zones), Random Forest | — |
 | [**prediction-as-power**](https://github.com/Rishabh-bgp/prediction-as-power) | Hourly European electricity-market simulator comparing NWP and AI wind forecasts via merit-order prices and imbalance costs | — |
 | [**wind-turbine-power-model**](https://github.com/Rishabh-bgp/wind-turbine-power-model) | Single-turbine power curves and wind-farm simulation with Weibull statistics and windpowerlib | — |
