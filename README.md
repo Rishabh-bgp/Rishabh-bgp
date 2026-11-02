@@ -52,12 +52,18 @@
 
 <img src="./assets/h-mission.svg" alt="MISSION LOG: focus areas" width="100%"/>
 
-| Sector | Mission |
-|---|---|
-| 🧠 **EEG / epilepsy detection** | Provenance audits and leakage-aware seizure-type classification |
-| 🧬 **Cancer genomics ML** | Tumour-type classification on RNA-Seq with conformal reliability |
-| 🛡️ **NLP spam & scam detection** | Explainable SMS/email scam detection for English, Hindi and Hinglish |
-| 🌐 **Web development** | Modern UI/UX websites and browser games in plain HTML, CSS and JavaScript |
+| Sector | Mission | Proof of work |
+|---|---|---|
+| 🌬️ **Time-series & wind forecasting** | Wind speed forecasting from ARIMA/SARIMA to CNN-BiLSTM-Attention, probabilistic TCN and load forecasting | 14 thesis repos · [morocco-city-aware-load-forecasting](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting) · [prediction-as-power](https://github.com/Rishabh-bgp/prediction-as-power) · [wind-turbine-power-model](https://github.com/Rishabh-bgp/wind-turbine-power-model) |
+| ⚛️ **Quantum & hybrid QML** | Variational quantum circuits and tensor networks combined with deep forecasters (PyTorch + PennyLane) | [hybrid-vqc](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) · [cbma-tn-vqc](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) · [hcq-lstm-clqgwo](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) |
+| 🧠 **Deep learning** | CNN, LSTM/BiLSTM, attention, gating, knowledge tracing and gene-perturbation models in PyTorch | [cnn-bilstm-attention-*](https://github.com/Rishabh-bgp/cnn-bilstm-attention-synthetic-scada) · [wuweidl](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) · [vedic-math-hybrid-kt](https://github.com/Rishabh-bgp/vedic-math-hybrid-kt) · [virtual cell](https://github.com/Rishabh-bgp/building-a-virtual-cell-in-python) |
+| 👁️ **Computer vision (YOLO)** | Ultralytics YOLO11 detection, segmentation, pose and classification, with ONNX models running in the browser | [machine-learning-part-2](https://github.com/Rishabh-bgp/machine-learning-part-2) · [ROAD//SCAN](https://rishabh-bgp.github.io/machine-learning-part-3/) |
+| 🛡️ **NLP spam & scam detection** | Explainable SMS/email scam detection for English, Hindi and Hinglish, and stylometric detection of LLM-rewritten text | [SPAM//SCAN](https://spam-scan.onrender.com) · [coda-synth](https://github.com/Rishabh-bgp/coda-synth) |
+| ⚖️ **Responsible AI** | Fairness gaps with bootstrap CIs, mitigation Pareto fronts, SHAP/LIME/permutation audits, governance crosswalks | [FAIR//AUDIT](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) · [xai-shap-lime](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) · [boston (race feature excluded)](https://github.com/Rishabh-bgp/boston-house-price-prediction) |
+| 🧬 **EEG / biomedical ML** | Provenance audits, leakage-aware seizure-type classification, RNA-Seq tumour typing with conformal reliability, CKD and BCI reviews | [beed-ml-study](https://github.com/Rishabh-bgp/beed-ml-study) · [pan-cancer](https://github.com/Rishabh-bgp/pan-cancer-classification) · [CKD in HIV](https://github.com/Rishabh-bgp/Chronic-Kidney-Disease-Stage-Identification-in-HIV-Infected-Patients-Using-Supervised-ML) |
+| 🤖 **LLMs, GenAI & agents** | Multi-agent operations, n8n automation, agentic commerce simulation, GenAI and agentic-engineering ebooks | [fleet chief of staff](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) · [iot-n8n](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) · [Agentic-Engineering-Ebook](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) |
+| 🚀 **Deployment** | GitHub Pages web apps, in-browser ONNX and JS models, FastAPI services, Docker, CI, and a Flask app on Render | [ROAD//SCAN](https://rishabh-bgp.github.io/machine-learning-part-3/) · [SPAM//SCAN](https://spam-scan.onrender.com) · [Taiwan valuation app](https://rishabh-bgp.github.io/real-estate-valuation-taiwan/) · [iris-classification](https://github.com/Rishabh-bgp/iris-classification) |
+| 🌐 **Web development** | Modern UI/UX websites and browser games in plain HTML, CSS and JavaScript | [logistics](https://rishabh-bgp.github.io/logistics-website-capstone/) · [zoo](https://rishabh-bgp.github.io/zoo-website-capstone/) · [snakes-and-ladders](https://rishabh-bgp.github.io/snakes-and-ladders/) |
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -76,7 +82,7 @@
 | [**machine-learning-part-1**](https://github.com/Rishabh-bgp/machine-learning-part-1) | Heart-disease classification & insurance-cost regression with scikit-learn | — |
 | [**machine-learning-part-2**](https://github.com/Rishabh-bgp/machine-learning-part-2) | Computer vision with YOLO11: detection, segmentation, pose & potato leaf disease classification (99.5% top-1) | — |
 | [**machine-learning-part-3**](https://github.com/Rishabh-bgp/machine-learning-part-3) | Road damage detection with YOLO11: potholes, cracks & manholes, in-browser ONNX demo (mAP50 0.496) | [▶ open](https://rishabh-bgp.github.io/machine-learning-part-3/) |
-| [**responsible-ai-uci-adult**](https://github.com/Rishabh-bgp/responsible-ai-uci-adult) | Responsible-AI audit on UCI Adult: fairness gaps with bootstrap CIs, mitigation Pareto front, SHAP/LIME/permutation audit, governance crosswalk (XGBoost AUC 0.929) | [▶ open](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) |
+| [**responsible-ai-uci-adult**](https://github.com/Rishabh-bgp/responsible-ai-uci-adult) | Responsible-AI audit on UCI Adult: fairness gaps with bootstrap CIs, mitigation Pareto front, SHAP/LIME/permutation audit, governance crosswalk. 10-seed repeated runs: XGBoost accuracy **0.867 ± 0.004**, AUC 0.928 ± 0.002 | [▶ open](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) |
 | [**NIELIT-MACHINE-LEARNING-PROJECTS**](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end ML projects with runnable notebooks | — |
 
 ### `> SECTOR 02 :: FIELD OPERATIONS`
@@ -87,6 +93,37 @@
 | [**cobratate**](https://github.com/Rishabh-bgp/cobratate) | Esoteric programming language with a Python interpreter — built at a 24-hour hackathon at IIT Jammu | [▶ open](https://rishabh-bgp.github.io/cobratate/) |
 | [**logistics-website-capstone**](https://github.com/Rishabh-bgp/logistics-website-capstone) | Kargonaut Logistics — claymorphism, glassmorphism & neumorphism | [▶ open](https://rishabh-bgp.github.io/logistics-website-capstone/) |
 | [**lovelight-leap**](https://github.com/Rishabh-bgp/lovelight-leap) | Love-themed 2D platformer in vanilla JS canvas | [▶ play](https://rishabh-bgp.github.io/lovelight-leap/) |
+| [**zoo-website-capstone**](https://github.com/Rishabh-bgp/zoo-website-capstone) | Fictional zoo website built twice: a beginner version and a cinematic advanced version | [▶ open](https://rishabh-bgp.github.io/zoo-website-capstone/) |
+| [**snakes-and-ladders**](https://github.com/Rishabh-bgp/snakes-and-ladders) | Original Snakes & Ladders browser game: SVG board, 3D dice, 2–4 humans or bots, save/resume | [▶ play](https://rishabh-bgp.github.io/snakes-and-ladders/) |
+| [**kbc-game**](https://github.com/Rishabh-bgp/kbc-game) | Kaun Banega Crorepati quiz game for the terminal: 16-question prize ladder, safe levels, 4 lifelines | — |
+
+### `> SECTOR 03 :: RESEARCH LAB`
+
+| Project | What it is | Live |
+|---|---|---|
+| [**coda-synth**](https://github.com/Rishabh-bgp/coda-synth) | Stylometric detection of LLM-rewritten dark-web documents with sparse TF-IDF + LinearSVC (public/synthetic corpora only) | [▶ open](https://shale-ember-delta-kite.grok.me/) |
+| [**morocco-city-aware-load-forecasting**](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting) | City-aware short-term load forecasting and peak detection on Moroccan smart-meter data (5 zones), Random Forest | — |
+| [**prediction-as-power**](https://github.com/Rishabh-bgp/prediction-as-power) | Hourly European electricity-market simulator comparing NWP and AI wind forecasts via merit-order prices and imbalance costs | — |
+| [**wind-turbine-power-model**](https://github.com/Rishabh-bgp/wind-turbine-power-model) | Single-turbine power curves and wind-farm simulation with Weibull statistics and windpowerlib | — |
+| [**building-a-virtual-cell-in-python**](https://github.com/Rishabh-bgp/building-a-virtual-cell-in-python) | Predicts a cell's gene-activity pattern after a single-gene knockout | — |
+| [**vedic-math-hybrid-kt**](https://github.com/Rishabh-bgp/vedic-math-hybrid-kt) | Rule-based Vedic sutras + RF tag cleaning + LSTM knowledge tracing with focal loss | — |
+| [**Meeting-of-Machines**](https://github.com/Rishabh-bgp/Meeting-of-Machines-Consumer-Agents-Seller-Agents-and-Hidden-Fulfilment-Risk-in-Online-Retail) | Agentic-commerce case study: simulation of human, naive and governed agent matching and hidden fulfilment risk | — |
+| [**Predicting-Hot-Events**](https://github.com/Rishabh-bgp/Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks) | Bayesian early-stage event prediction (BEEP) for social networks from time-series and structural features | — |
+| [**Chronic-Kidney-Disease-Stage-Identification**](https://github.com/Rishabh-bgp/Chronic-Kidney-Disease-Stage-Identification-in-HIV-Infected-Patients-Using-Supervised-ML) | Supervised-ML review of CKD stage detection in HIV patients (SVM, RF, XGBoost, DNN) | — |
+| [**Brain-Computer-Interfaces-and-Cognitive-Computing**](https://github.com/Rishabh-bgp/Brain-Computer-Interfaces-and-Cognitive-Computing-An-Introduction) | Introduction to brain–computer interfaces and cognitive computing | — |
+
+### `> SECTOR 04 :: KNOWLEDGE BASE & TRAINING GROUNDS`
+
+| Project | What it is | Live |
+|---|---|---|
+| [**IIT-ROPAR-GENAI-FOUNDATIONS**](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS) | Open-source Generative AI foundations ebooks from an IIT Ropar AI tools workshop | — |
+| [**Agentic-Engineering-Ebook**](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) | Notebook-book on specifying, generating and verifying multi-tenant SaaS built with coding agents | — |
+| [**NIELIT-PYTHON-**](https://github.com/Rishabh-bgp/NIELIT-PYTHON-) | Python teaching notebooks: a language reference and five capstone programs | — |
+| [**NIELIT-DATA-SCIENCE**](https://github.com/Rishabh-bgp/NIELIT-DATA-SCIENCE) | NumPy, Pandas and Matplotlib tutorial notebooks for the NIELIT Data Science curriculum | — |
+| [**100-days-of-python**](https://github.com/Rishabh-bgp/100-days-of-python) | Original offline solutions to all 100 projects of the 100 Days of Code Python curriculum | — |
+| [**logistic-regression**](https://github.com/Rishabh-bgp/logistic-regression) | Multi-class logistic regression on Iris: stratified CV, GridSearchCV, decision boundaries (96.67% accuracy) | — |
+| [**linear-regression-model-**](https://github.com/Rishabh-bgp/linear-regression-model-) | Linear regression on the scikit-learn diabetes dataset using BMI | — |
+| [**knn-classifier**](https://github.com/Rishabh-bgp/knn-classifier) | K-Nearest Neighbors classifier on Iris | — |
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -169,7 +206,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,flask,html,css,js,git,github,linux&theme=dark" alt="Tech stack: Python, scikit-learn, PyTorch, Flask, HTML, CSS, JavaScript, Git, GitHub, Linux"/>
 </p>
 
-`pandas` · `NumPy` · `LightGBM` · `matplotlib` · `seaborn` · `Jupyter`
+`pandas` · `NumPy` · `LightGBM` · `XGBoost` · `statsmodels` · `PennyLane` · `Ultralytics YOLO11` · `ONNX Runtime Web` · `fairlearn` · `SHAP` · `LIME` · `FastAPI` · `Docker` · `n8n` · `matplotlib` · `seaborn` · `Jupyter`
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -281,7 +318,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/h-telemetry.svg" alt="SCORECARD: verified stats" width="100%"/>
 
-<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 31 Oct 2026: 56 public repositories (50 original, 6 forks), 24 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
+<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 2 Nov 2026: 57 public repositories (51 original, 6 forks), 25 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
