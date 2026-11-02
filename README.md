@@ -76,6 +76,7 @@
 | [**machine-learning-part-1**](https://github.com/Rishabh-bgp/machine-learning-part-1) | Heart-disease classification & insurance-cost regression with scikit-learn | — |
 | [**machine-learning-part-2**](https://github.com/Rishabh-bgp/machine-learning-part-2) | Computer vision with YOLO11: detection, segmentation, pose & potato leaf disease classification (99.5% top-1) | — |
 | [**machine-learning-part-3**](https://github.com/Rishabh-bgp/machine-learning-part-3) | Road damage detection with YOLO11: potholes, cracks & manholes, in-browser ONNX demo (mAP50 0.496) | [▶ open](https://rishabh-bgp.github.io/machine-learning-part-3/) |
+| [**responsible-ai-uci-adult**](https://github.com/Rishabh-bgp/responsible-ai-uci-adult) | Responsible-AI audit on UCI Adult: fairness gaps with bootstrap CIs, mitigation Pareto front, SHAP/LIME/permutation audit, governance crosswalk (XGBoost AUC 0.929) | [▶ open](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) |
 | [**NIELIT-MACHINE-LEARNING-PROJECTS**](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end ML projects with runnable notebooks | — |
 
 ### `> SECTOR 02 :: FIELD OPERATIONS`
