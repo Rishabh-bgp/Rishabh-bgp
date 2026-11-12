@@ -101,7 +101,7 @@
 
 | Project | What it is | Live |
 |---|---|---|
-| [**brain-tumor-mri-classification**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) | Brain tumour MRI (4 classes): near-duplicate audit of the Kaggle dataset, leakage-aware EfficientNet-B0, temperature scaling, 5 sanity-checked XAI methods, white paper. Test accuracy **93.4%** | [▶ open](https://rishabh-bgp.github.io/brain-tumor-mri-classification/) |
+| [**brain-tumor-mri-classification**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) | Brain tumour MRI (4 classes): near-duplicate audit of the Kaggle dataset, leakage-aware EfficientNet-B0, temperature scaling, 5 sanity-checked XAI methods, white paper. v2 test accuracy **91.9%** after a stricter duplicate rule (v1: 93.4%) | [▶ open](https://rishabh-bgp.github.io/brain-tumor-mri-classification/) |
 | [**coda-synth**](https://github.com/Rishabh-bgp/coda-synth) | Stylometric detection of LLM-rewritten dark-web documents with sparse TF-IDF + LinearSVC (public/synthetic corpora only) | [▶ open](https://shale-ember-delta-kite.grok.me/) |
 | [**morocco-city-aware-load-forecasting**](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting) | City-aware short-term load forecasting and peak detection on Moroccan smart-meter data (5 zones), Random Forest | — |
 | [**prediction-as-power**](https://github.com/Rishabh-bgp/prediction-as-power) | Hourly European electricity-market simulator comparing NWP and AI wind forecasts via merit-order prices and imbalance costs | — |
