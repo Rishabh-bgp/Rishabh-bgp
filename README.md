@@ -21,40 +21,9 @@
 
 I use agentic AI tools for coding: Codex, Claude Code, Cursor and Devin.
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<img src="./assets/tools/openai.svg" width="40" height="40" alt="Codex logo"><br>
-<b>Codex</b><br>
-<sub>OpenAI</sub><br>
-⭐⭐⭐⭐⭐<br>
-<sub>5/5 · personal rating</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/tools/claude.svg" width="40" height="40" alt="Claude Code logo"><br>
-<b>Claude Code</b><br>
-<sub>Anthropic</sub><br>
-⭐⭐⭐⭐⭐<br>
-<sub>5/5 · personal rating</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/tools/cursor-light.svg#gh-light-mode-only" width="40" height="40" alt="Cursor logo">
-<img src="./assets/tools/cursor-dark.svg#gh-dark-mode-only" width="40" height="40" alt="Cursor logo"><br>
-<b>Cursor</b><br>
-<sub>Anysphere</sub><br>
-⭐⭐⭐⭐⭐<br>
-<sub>5/5 · personal rating</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/tools/devin-light.svg#gh-light-mode-only" width="40" height="40" alt="Devin logo">
-<img src="./assets/tools/devin-dark.svg#gh-dark-mode-only" width="40" height="40" alt="Devin logo"><br>
-<b>Devin</b><br>
-<sub>Cognition Labs</sub><br>
-⭐⭐⭐⭐⭐<br>
-<sub>5/5 · personal rating</sub>
-</td>
-</tr>
-</table>
+| ![Codex logo](./assets/tools/openai.svg) | ![Claude Code logo](./assets/tools/claude.svg) | ![Cursor logo](./assets/tools/cursor-light.svg#gh-light-mode-only)![Cursor logo](./assets/tools/cursor-dark.svg#gh-dark-mode-only) | ![Devin logo](./assets/tools/devin-light.svg#gh-light-mode-only)![Devin logo](./assets/tools/devin-dark.svg#gh-dark-mode-only) |
+|:---:|:---:|:---:|:---:|
+| **Codex**<br><sub>OpenAI</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Claude Code**<br><sub>Anthropic</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Cursor**<br><sub>Anysphere</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Devin**<br><sub>Cognition Labs</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> |
 
 </div>
 
