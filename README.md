@@ -19,21 +19,48 @@
 
 <div align="center">
 
-I use agentic AI tools for coding: Codex, Claude Code and Cursor.
+I use agentic AI tools for coding: Codex, Claude Code, Cursor and Devin.
 
-![Codex](https://img.shields.io/badge/Codex-00f0ff?style=for-the-badge&logo=openai&logoColor=0a0a0a&labelColor=0a0a0a)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-ff0033?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a)
-![Cursor](https://img.shields.io/badge/Cursor-39ff6a?style=for-the-badge&logo=cursor&logoColor=0a0a0a&labelColor=0a0a0a)
-
-| Tool | My rating |
-|---|---|
-| Codex | ⭐⭐⭐⭐⭐ |
-| Claude Code | ⭐⭐⭐⭐⭐ |
-| Cursor | ⭐⭐⭐⭐⭐ |
-
-<sub>Personal ratings.</sub>
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="./assets/tools/openai.svg" width="40" height="40" alt="Codex logo"><br>
+<b>Codex</b><br>
+<sub>OpenAI</sub><br>
+⭐⭐⭐⭐⭐<br>
+<sub>5/5 · personal rating</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="./assets/tools/claude.svg" width="40" height="40" alt="Claude Code logo"><br>
+<b>Claude Code</b><br>
+<sub>Anthropic</sub><br>
+⭐⭐⭐⭐⭐<br>
+<sub>5/5 · personal rating</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="./assets/tools/cursor-light.svg" width="40" height="40" alt="Cursor logo" class="gh-light-mode-only">
+<img src="./assets/tools/cursor-dark.svg" width="40" height="40" alt="Cursor logo" class="gh-dark-mode-only"><br>
+<b>Cursor</b><br>
+<sub>Anysphere</sub><br>
+⭐⭐⭐⭐⭐<br>
+<sub>5/5 · personal rating</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="./assets/tools/devin-light.svg" width="40" height="40" alt="Devin logo" class="gh-light-mode-only">
+<img src="./assets/tools/devin-dark.svg" width="40" height="40" alt="Devin logo" class="gh-dark-mode-only"><br>
+<b>Devin</b><br>
+<sub>Cognition Labs</sub><br>
+⭐⭐⭐⭐⭐<br>
+<sub>5/5 · personal rating</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+**What's Devin?** Devin, built by Cognition Labs, is an autonomous AI software engineer that can take a task from plan to pull request in its own sandboxed shell, editor and browser.
+
+I have extensive experience working with Cognition Labs' Devin. It plans multi-step tasks, writes and edits code across a repo, runs commands and tests in its own shell, editor and browser sandbox, debugs and fixes failing tests or bugs, reads docs, opens pull requests and responds to review comments, and handles migrations, refactors and integrations such as Slack and GitHub.
 
 <table><tr><td width="62%">
 
