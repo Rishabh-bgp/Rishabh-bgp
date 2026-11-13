@@ -38,6 +38,21 @@
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
+### 🌟 Featured project
+
+**[brain-tumor-mri-classification](https://github.com/Rishabh-bgp/brain-tumor-mri-classification)** — leakage-aware, calibrated and explainable EfficientNet-B0 for four-way brain tumour MRI classification (glioma, meningioma, pituitary, no tumour).
+
+v2 test accuracy **91.9%** (v1: **93.4%**).
+
+[**Repository**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) · [**▶ Live demo: NEURO//SCAN**](https://rishabh-bgp.github.io/brain-tumor-mri-classification/) · [**📄 White paper (PDF)**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification/blob/main/paper/brain_tumor_mri_white_paper.pdf)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0a0a)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=0a0a0a)
+![XAI](https://img.shields.io/badge/XAI-39ff6a?style=for-the-badge&labelColor=0a0a0a)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0a0a0a)](https://colab.research.google.com/github/Rishabh-bgp/brain-tumor-mri-classification/blob/main/notebooks/01_data_and_deduplication.ipynb)
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
 <img src="./assets/h-deploy.svg" alt="FIELD DEPLOYMENT: IIT Jammu Summer School 2026" width="100%"/>
 
 <a href="https://github.com/Rishabh-bgp/cobratate"><img src="./assets/iit-jammu.svg" alt="IIT Jammu Summer School 2026, internship in AI (LLMs, GenAI, Automation & AI Agents), 10 Jun – 10 Aug 2026, with Techible and I3C IIT Jammu. Built Cobratate, an esoteric programming language, in a 24-hour hackathon" width="100%"/></a>
@@ -101,7 +116,7 @@
 
 | Project | What it is | Live |
 |---|---|---|
-| [**brain-tumor-mri-classification**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) | Brain tumour MRI (4 classes): near-duplicate audit of the Kaggle dataset, leakage-aware EfficientNet-B0, temperature scaling, 5 sanity-checked XAI methods, white paper. v2 test accuracy **91.9%** after a stricter duplicate rule (v1: 93.4%) | [▶ open](https://rishabh-bgp.github.io/brain-tumor-mri-classification/) |
+| [**brain-tumor-mri-classification**](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) | Brain tumour MRI (4 classes): near-duplicate audit of the Kaggle dataset, leakage-aware EfficientNet-B0, temperature scaling, 5 sanity-checked XAI methods, [white paper](https://github.com/Rishabh-bgp/brain-tumor-mri-classification/blob/main/paper/brain_tumor_mri_white_paper.pdf). v2 test accuracy **91.9%** after a stricter duplicate rule (v1: 93.4%) | [▶ open](https://rishabh-bgp.github.io/brain-tumor-mri-classification/) |
 | [**coda-synth**](https://github.com/Rishabh-bgp/coda-synth) | Stylometric detection of LLM-rewritten dark-web documents with sparse TF-IDF + LinearSVC (public/synthetic corpora only) | [▶ open](https://shale-ember-delta-kite.grok.me/) |
 | [**morocco-city-aware-load-forecasting**](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting) | City-aware short-term load forecasting and peak detection on Moroccan smart-meter data (5 zones), Random Forest | — |
 | [**prediction-as-power**](https://github.com/Rishabh-bgp/prediction-as-power) | Hourly European electricity-market simulator comparing NWP and AI wind forecasts via merit-order prices and imbalance costs | — |
