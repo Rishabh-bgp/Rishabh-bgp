@@ -56,6 +56,12 @@ I have extensive experience working with Cognition Labs' Devin. It plans multi-s
 
 ### 🌟 Featured project
 
+<div align="center">
+
+[![NEURO//SCAN — Brain Tumour MRI Classification · EfficientNet-B0 · Explainable AI. v2 test accuracy 91.9%, macro-F1 0.919, leakage-aware split, four classes.](./assets/featured/neuroscan-banner.png)](https://rishabh-bgp.github.io/brain-tumor-mri-classification/)
+
+</div>
+
 **[brain-tumor-mri-classification](https://github.com/Rishabh-bgp/brain-tumor-mri-classification)** — leakage-aware, calibrated and explainable EfficientNet-B0 for four-way brain tumour MRI classification (glioma, meningioma, pituitary, no tumour).
 
 v2 test accuracy **91.9%** (v1: **93.4%**).
