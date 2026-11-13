@@ -10,10 +10,30 @@
 ![IIT Ropar × NIELIT Ropar](https://img.shields.io/badge/IIT%20Ropar%20×%20NIELIT%20Ropar-AI%2FML%20Program-39ff6a?style=for-the-badge&labelColor=0a0a0a)
 ![Real Estate ML Trilogy](https://img.shields.io/badge/CAPSTONES-Real%20Estate%20ML%20Trilogy-ff2bd6?style=for-the-badge&labelColor=0a0a0a)
 [![Thesis: An Investigation into Advanced Techniques for Wind Speed Forecasting with Applications to Renewable Energy Grid Integration](https://img.shields.io/badge/THESIS-Wind%20Speed%20Forecasting%20%26%20Grid%20Integration-ffd400?style=for-the-badge&labelColor=0a0a0a)](#mtech-in-ai-and-data-science-iiit-bhagalpur-thesis-work)
+![AI Orchestrator](https://img.shields.io/badge/AI-Orchestrator-00f0ff?style=for-the-badge&labelColor=0a0a0a)
+![Agentic AI Engineer](https://img.shields.io/badge/Agentic%20AI-Engineer-39ff6a?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
-<p align="center"><b>Rishabh Aryan</b> · AI/ML researcher and R&amp;D engineer · M.Tech in Artificial Intelligence &amp; Data Science, IIIT Bhagalpur · machine learning, deep learning, wind power forecasting, quantum machine learning, explainable AI (SHAP, LIME), real estate price prediction, NLP and healthcare AI · Python, scikit-learn, PyTorch, FastAPI</p>
+<p align="center"><b>Rishabh Aryan</b> · AI/ML researcher and R&amp;D engineer · AI Orchestrator · Agentic AI Engineer · M.Tech in Artificial Intelligence &amp; Data Science, IIIT Bhagalpur · machine learning, deep learning, wind power forecasting, quantum machine learning, explainable AI (SHAP, LIME), real estate price prediction, NLP and healthcare AI · Python, scikit-learn, PyTorch, FastAPI</p>
+
+<div align="center">
+
+I use agentic AI tools for coding: Codex, Claude Code and Cursor.
+
+![Codex](https://img.shields.io/badge/Codex-00f0ff?style=for-the-badge&logo=openai&logoColor=0a0a0a&labelColor=0a0a0a)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-ff0033?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a)
+![Cursor](https://img.shields.io/badge/Cursor-39ff6a?style=for-the-badge&logo=cursor&logoColor=0a0a0a&labelColor=0a0a0a)
+
+| Tool | My rating |
+|---|---|
+| Codex | ⭐⭐⭐⭐⭐ |
+| Claude Code | ⭐⭐⭐⭐⭐ |
+| Cursor | ⭐⭐⭐⭐⭐ |
+
+<sub>Personal ratings.</sub>
+
+</div>
 
 <table><tr><td width="62%">
 
