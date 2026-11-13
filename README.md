@@ -38,16 +38,16 @@ I use agentic AI tools for coding: Codex, Claude Code, Cursor and Devin.
 <sub>5/5 · personal rating</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="./assets/tools/cursor-light.svg" width="40" height="40" alt="Cursor logo" class="gh-light-mode-only">
-<img src="./assets/tools/cursor-dark.svg" width="40" height="40" alt="Cursor logo" class="gh-dark-mode-only"><br>
+<img src="./assets/tools/cursor-light.svg#gh-light-mode-only" width="40" height="40" alt="Cursor logo">
+<img src="./assets/tools/cursor-dark.svg#gh-dark-mode-only" width="40" height="40" alt="Cursor logo"><br>
 <b>Cursor</b><br>
 <sub>Anysphere</sub><br>
 ⭐⭐⭐⭐⭐<br>
 <sub>5/5 · personal rating</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="./assets/tools/devin-light.svg" width="40" height="40" alt="Devin logo" class="gh-light-mode-only">
-<img src="./assets/tools/devin-dark.svg" width="40" height="40" alt="Devin logo" class="gh-dark-mode-only"><br>
+<img src="./assets/tools/devin-light.svg#gh-light-mode-only" width="40" height="40" alt="Devin logo">
+<img src="./assets/tools/devin-dark.svg#gh-dark-mode-only" width="40" height="40" alt="Devin logo"><br>
 <b>Devin</b><br>
 <sub>Cognition Labs</sub><br>
 ⭐⭐⭐⭐⭐<br>
