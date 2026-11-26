@@ -264,14 +264,14 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 51 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents and a copyright registration. Grouped by year, newest first.
 
-### `> PREPRINTS` · 4 entries
+### `> 2026` · 46 entries
 
-- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident (Version 1). **Rishabh Aryan**. *Zenodo*, 2026. [https://doi.org/10.5281/zenodo.24553548](https://doi.org/10.5281/zenodo.24553548)
-- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, 2026. [https://doi.org/10.2139/ssrn.7736139](https://doi.org/10.2139/ssrn.7736139)
-- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, 2026. [https://doi.org/10.2139/ssrn.7736020](https://doi.org/10.2139/ssrn.7736020)
-- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark (Version 1). Nikshep Paliwal, **Rishabh Aryan**, Nishtha Kalia. *Zenodo*, 2026. [https://doi.org/10.5281/zenodo.23959426](https://doi.org/10.5281/zenodo.23959426)
+**Preprints (4)**
 
-### `> 2026` · 42 entries
+- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Aryan, Er. Rishabh**. *Zenodo*, https://doi.org/10.5281/zenodo.24553548.
+- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, https://doi.org/10.2139/ssrn.7736139.
+- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, https://doi.org/10.2139/ssrn.7736020.
+- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Er. Rishabh Aryan**, Nishtha Kalia. *Zenodo*, https://doi.org/10.5281/zenodo.23959426.
 
 **Papers, chapters and books (36)**
 
@@ -314,8 +314,8 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 **Patents and copyright (6)**
 
-- Drug Dosage Dispensing Device. **Er. Rishabh Aryan**, Dr. Sheik Arshad Ali, Dr. Jeff Walter Rajadurai OR, Dr. Purtee Kohli, Dr. Bidisha Borthakur, Ms. Vratika Arya. Indian Design Application 526834-001 (IN).
-- Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Indian Design Application 524970-001 (IN).
+- Drug Dosage Dispensing Device. **Er. Rishabh Aryan**, Dr. Sheik Arshad Ali, Dr. Jeff Walter Rajadurai OR, Dr. Purtee Kohli, Dr. Bidisha Borthakur, Ms. Vratika Arya. Patent 526834-001 (IN).
+- Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Patent 524970-001 (IN).
 - Wearable Sensor for Sports and Medical Use. Dr. CMA. Nayankumar Manilal Malde, Mr. Bhaskar J. Raskar, Maj. Dr Rahul Dilipkumar Magdum, Nishant Bharti, **Er. Rishabh Aryan**, Dr. Gitam Singh, Dr. Phatangare Ambadas Somnath, Dr. Mohit Kumar. Patent 496859-001 (IN).
 - AI-Based Autonomous Multi-Agent Cyber Threat Detection and Response System. Vivek Kothuru, Dr. R Sarath Babu, Dr. Roshan Suresh Bhanuse, Dr. Shyamal Mandal, **Er. Rishabh Aryan**, Dr. P. Ramasubramanian. Patent 510316-001 (IN).
 - Embodying Wu Wei and Ziran in Comptemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO.
