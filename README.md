@@ -271,7 +271,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 - Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, 2026. [https://doi.org/10.2139/ssrn.7736020](https://doi.org/10.2139/ssrn.7736020)
 - An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark (Version 1). Nikshep Paliwal, **Rishabh Aryan**, Nishtha Kalia. *Zenodo*, 2026. [https://doi.org/10.5281/zenodo.23959426](https://doi.org/10.5281/zenodo.23959426)
 
-### `> 2026` · 40 entries
+### `> 2026` · 42 entries
 
 **Papers, chapters and books (36)**
 
@@ -312,8 +312,10 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 - A Hybrid CNN-Vision Transformer Framework for Multi-Class Plant Disease Identification from Leaf Images. **Rishabh Aryan**, Anju. *Journal of Machine Learning Innovations and Artificial Intelligence Horizons*, 1(2), pp. 153-171, Notation Trendplus Publishing Pvt. Ltd.
 - Integrating Digital Agriculture and Smart Farming Technologies for Climate-Smart Crop Management: A Field-Based Evaluation of AI, IoT, and Precision Systems. **Rishabh Aryan**, Anju. *Journal of Environmental Agriculture and Agroecosystem Management*, vol. 1, Vol. 1 No. 1 (2026): October, pp. 165-183, Notation Trendplus Publishing Pvt. Ltd.
 
-**Patents and copyright (4)**
+**Patents and copyright (6)**
 
+- Drug Dosage Dispensing Device. **Er. Rishabh Aryan**, Dr. Sheik Arshad Ali, Dr. Jeff Walter Rajadurai OR, Dr. Purtee Kohli, Dr. Bidisha Borthakur, Ms. Vratika Arya. Indian Design Application 526834-001 (IN).
+- Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Indian Design Application 524970-001 (IN).
 - Wearable Sensor for Sports and Medical Use. Dr. CMA. Nayankumar Manilal Malde, Mr. Bhaskar J. Raskar, Maj. Dr Rahul Dilipkumar Magdum, Nishant Bharti, **Er. Rishabh Aryan**, Dr. Gitam Singh, Dr. Phatangare Ambadas Somnath, Dr. Mohit Kumar. Patent 496859-001 (IN).
 - AI-Based Autonomous Multi-Agent Cyber Threat Detection and Response System. Vivek Kothuru, Dr. R Sarath Babu, Dr. Roshan Suresh Bhanuse, Dr. Shyamal Mandal, **Er. Rishabh Aryan**, Dr. P. Ramasubramanian. Patent 510316-001 (IN).
 - Embodying Wu Wei and Ziran in Comptemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO.
