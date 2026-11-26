@@ -288,13 +288,13 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 **Elsevier SSRN (2)**
 
-- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736020).
-- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736139).
+- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736020).
+- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736139).
 
 **Zenodo (2)**
 
-- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Er. Rishabh Aryan**. [*Zenodo*](https://doi.org/10.5281/zenodo.24553548). `Lead`
-- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Er. Rishabh Aryan**, Nishtha Kalia. [*Zenodo*](https://doi.org/10.5281/zenodo.23959426).
+- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Rishabh Aryan**. [*Zenodo*](https://doi.org/10.5281/zenodo.24553548). `Lead`
+- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Rishabh Aryan**, Nishtha Kalia. [*Zenodo*](https://doi.org/10.5281/zenodo.23959426).
 
 ### `> 2026` · 43 entries
 
