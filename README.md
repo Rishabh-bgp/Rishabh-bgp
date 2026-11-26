@@ -344,7 +344,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 - Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Patent 524970-001 (IN). `Lead`
 - Wearable Sensor for Sports and Medical Use. Dr. CMA. Nayankumar Manilal Malde, Mr. Bhaskar J. Raskar, Maj. Dr Rahul Dilipkumar Magdum, Nishant Bharti, **Er. Rishabh Aryan**, Dr. Gitam Singh, Dr. Phatangare Ambadas Somnath, Dr. Mohit Kumar. Patent 496859-001 (IN).
 - AI-Based Autonomous Multi-Agent Cyber Threat Detection and Response System. Vivek Kothuru, Dr. R Sarath Babu, Dr. Roshan Suresh Bhanuse, Dr. Shyamal Mandal, **Er. Rishabh Aryan**, Dr. P. Ramasubramanian. Patent 510316-001 (IN).
-- Embodying Wu Wei and Ziran in Comptemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO. `Lead`
+- Embodying Wu Wei and Ziran in Contemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO. `Lead`
 - Hybrid Mechanical Waste-to-Energy Processing System. Shende, Prashant N., Chowdhury, Prasun, Gaikwad, Amol Dilipkumar, **Aryan, Rishabh**, Tolani, Smita Chandar, Ravi, S. Robert. Patent 20,262,107,892 (IN).
 
 ### `> 2025` · 2 entries
@@ -394,11 +394,11 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 <img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 12 Nov 2026: 58 public repositories (52 original, 6 forks), 26 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 58 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-bgp&layout=compact&cache_seconds=21600&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&border_color=ff0033" alt="Most used languages of Rishabh-bgp"/>
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub stats from the GraphQL API as of 26 Nov 2026: 59 public repositories (53 original, 6 forks), 847 commits in 2026, 1 star, 4 followers"/>
+  <img height="165" src="./assets/top-langs.svg" alt="Most used languages in owned public repositories as of 26 Nov 2026: Jupyter Notebook 94.06%, Python 2.90%, HTML 1.19%, JavaScript 0.85%, TypeScript 0.40%, CSS 0.37%"/>
 </p>
 <img src="./assets/contrib-card.svg" alt="Contribution telemetry from the GitHub GraphQL API: total contributions, this year, current and longest streak (date stamped on the card)" width="100%"/>
-<sub>The contribution card is generated from GitHub's GraphQL API by <code>scripts/contrib_card.py</code> and refreshed daily by a GitHub Action, so it does not depend on third-party image caches.</sub>
+<sub>The stats, language, and contribution cards are generated from GitHub's GraphQL API by <code>scripts/github_cards.py</code> and <code>scripts/contrib_card.py</code>, so they do not depend on third-party image caches. The contribution card is refreshed daily by a GitHub Action.</sub>
 
 ```text
 > sitrep
