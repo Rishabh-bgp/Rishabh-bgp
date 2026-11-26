@@ -17,7 +17,7 @@
 
 <p align="center"><b>Rishabh Aryan</b> · AI/ML researcher and R&amp;D engineer · AI Orchestrator · Agentic AI Engineer · M.Tech in Artificial Intelligence &amp; Data Science, IIIT Bhagalpur · machine learning, deep learning, wind power forecasting, quantum machine learning, explainable AI (SHAP, LIME), real estate price prediction, NLP and healthcare AI · Python, scikit-learn, PyTorch, FastAPI</p>
 
-<p align="center"><a href="https://www.rishabharyan.in">rishabharyan.in</a> · <a href="https://www.linkedin.com/in/rishabh-aryan-52bb07287">LinkedIn</a> · <a href="mailto:rishabharyan887@gmail.com">rishabharyan887@gmail.com</a></p>
+<p align="center"><a href="https://rishabh-bgp.github.io/">Academic CV · rishabh-bgp.github.io</a> · <a href="https://www.linkedin.com/in/rishabh-aryan-52bb07287">LinkedIn</a> · <a href="mailto:rishabharyan887@gmail.com">rishabharyan887@gmail.com</a></p>
 
 <div align="center">
 
