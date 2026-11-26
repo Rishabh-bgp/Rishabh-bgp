@@ -264,14 +264,19 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 51 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents and a copyright registration. Grouped by year, newest first.
 
-### `> 2026` · 46 entries
+### `> PREPRINTS` · 4 entries
 
-**Preprints (4)**
+**Elsevier SSRN (2)**
+
+- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, https://doi.org/10.2139/ssrn.7736020.
+- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, https://doi.org/10.2139/ssrn.7736139.
+
+**Zenodo (2)**
 
 - Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Aryan, Er. Rishabh**. *Zenodo*, https://doi.org/10.5281/zenodo.24553548.
-- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, https://doi.org/10.2139/ssrn.7736139.
-- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, https://doi.org/10.2139/ssrn.7736020.
 - An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Er. Rishabh Aryan**, Nishtha Kalia. *Zenodo*, https://doi.org/10.5281/zenodo.23959426.
+
+### `> 2026` · 42 entries
 
 **Papers, chapters and books (36)**
 
