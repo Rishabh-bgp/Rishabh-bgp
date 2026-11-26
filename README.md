@@ -280,7 +280,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 ## Publications
 
-51 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents and a copyright registration. Grouped by year, newest first.
+58 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents, preprints and a copyright registration. Grouped by year, newest first.
 
 `Lead` marks works on which I am the first or sole author (47 of the listed entries).
 
@@ -391,7 +391,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/h-telemetry.svg" alt="SCORECARD: verified stats" width="100%"/>
 
-<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 12 Nov 2026: 58 public repositories (52 original, 6 forks), 26 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 51 publications and patents, 3 real estate capstones" width="100%"/>
+<img src="./assets/scorecard.svg" alt="Scorecard, verified via the GitHub API on 12 Nov 2026: 58 public repositories (52 original, 6 forks), 26 GitHub Pages sites all returning HTTP 200, 8 featured ML projects, 14 thesis repositories, 58 publications and patents, 3 real estate capstones" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh-bgp&show_icons=true&cache_seconds=21600&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00f0ff&icon_color=39ff6a&border_color=ff0033" alt="GitHub stats for Rishabh-bgp"/>
