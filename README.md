@@ -250,14 +250,25 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/h-training.svg" alt="TRAINING LOG: education and training" width="100%"/>
+<img src="./assets/h-experience.svg" alt="WORK EXPERIENCE: internship, industrial training and partnership" width="100%"/>
+
+## Work Experience
+
+| Period | Role |
+|---|---|
+| Jul 2026 – Current | **6-Month Industrial Training & Certification Program in Artificial Intelligence and Machine Learning** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India. Research during this programme includes the BEED EEG epilepsy study and pan-cancer RNA-Seq classification. |
+| 10 Jun – 10 Aug 2026 | **Intern, AI (LLMs, GenAI, Automation & AI Agents)** — Summer School 2026, IIT Jammu, in collaboration with Techible and I3C IIT Jammu. During this internship I built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate) at a 24-hour hackathon at IIT Jammu. |
+| 3 Jun 2025 – Current | **Designated Partner** — Automated Pixel Marketing LLP (LLPIN ACO-8423, Registrar of Companies, Patna). I contribute in **AI/ML** and **Genetic Algorithms**. |
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<img src="./assets/h-training.svg" alt="EDUCATION: academic degrees" width="100%"/>
+
+## Education
 
 | Period | Programme |
 |---|---|
 | 2025 – Current (expected 2027) | **M.Tech, Artificial Intelligence & Data Science** — Indian Institute of Information Technology (IIIT) Bhagalpur, an Institute of National Importance under the Ministry of Education, Government of India. CGPA 7.86/10 (provisional, after two semesters). |
-| Jul 2026 – Current | **6-Month Industrial Training & Certification Program in AI & ML** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India. Research during this programme includes the BEED EEG epilepsy study and pan-cancer RNA-Seq classification. |
-| 10 Jun – 10 Aug 2026 | **Internship: AI (LLMs, GenAI, Automation & AI Agents)** — Summer School 2026, IIT Jammu, in collaboration with Techible and I3C IIT Jammu. During this internship I built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate) at a 24-hour hackathon at IIT Jammu. |
-| 3 Jun 2025 – Current | **Designated Partner** — Automated Pixel Marketing LLP (LLPIN ACO-8423, Registrar of Companies, Patna). |
 | 2023 – 2025 | **Master of Design (M.Des) in User Experience ("Imagine XP")** — DIT University (UGC-recognized). CGPA 8.92/10; completed 14 Jun 2025. Final semester: 16-credit practical training internship, graded A+ (SGPA 10.00). |
 | 2019 – 2023 | **Bachelor of Technology (B.Tech) in Computer Science and Engineering** — MATS University, MATS School of Engineering and IT (UGC-recognized, NAAC-accredited; AICTE-approved). CGPA 8.05/10. |
 | 2017 – 2020 | **Diploma in Computer Science and Engineering** — Himalayan Garhwal University. First Division, overall 75.08%. |
