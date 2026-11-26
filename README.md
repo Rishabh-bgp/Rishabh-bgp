@@ -19,11 +19,11 @@
 
 <div align="center">
 
-I use agentic AI tools for coding: Codex, Claude Code, Cursor and Devin.
+I use agentic AI tools for coding: Codex, Claude Code, Cursor, Devin and Google Antigravity.
 
-| ![Codex logo](./assets/tools/openai.svg) | ![Claude Code logo](./assets/tools/claude.svg) | ![Cursor logo](./assets/tools/cursor-light.svg#gh-light-mode-only)![Cursor logo](./assets/tools/cursor-dark.svg#gh-dark-mode-only) | ![Devin logo](./assets/tools/devin-light.svg#gh-light-mode-only)![Devin logo](./assets/tools/devin-dark.svg#gh-dark-mode-only) |
-|:---:|:---:|:---:|:---:|
-| **Codex**<br><sub>OpenAI</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Claude Code**<br><sub>Anthropic</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Cursor**<br><sub>Anysphere</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Devin**<br><sub>Cognition Labs</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> |
+| ![Codex logo](./assets/tools/openai.svg) | ![Claude Code logo](./assets/tools/claude.svg) | ![Cursor logo](./assets/tools/cursor-light.svg#gh-light-mode-only)![Cursor logo](./assets/tools/cursor-dark.svg#gh-dark-mode-only) | ![Devin logo](./assets/tools/devin-light.svg#gh-light-mode-only)![Devin logo](./assets/tools/devin-dark.svg#gh-dark-mode-only) | ![Google Antigravity logo](./assets/tools/antigravity-light.svg#gh-light-mode-only)![Google Antigravity logo](./assets/tools/antigravity-dark.svg#gh-dark-mode-only) |
+|:---:|:---:|:---:|:---:|:---:|
+| **Codex**<br><sub>OpenAI</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Claude Code**<br><sub>Anthropic</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Cursor**<br><sub>Anysphere</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Devin**<br><sub>Cognition Labs</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> | **Google Antigravity**<br><sub>Google</sub><br>⭐⭐⭐⭐⭐<br><sub>5/5 · personal rating</sub> |
 
 </div>
 
@@ -263,6 +263,13 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 ## Publications
 
 51 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents and a copyright registration. Grouped by year, newest first.
+
+### `> PREPRINTS` · 4 entries
+
+- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident (Version 1). **Rishabh Aryan**. *Zenodo*, 2026. [https://doi.org/10.5281/zenodo.24553548](https://doi.org/10.5281/zenodo.24553548)
+- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, 2026. [https://doi.org/10.2139/ssrn.7736139](https://doi.org/10.2139/ssrn.7736139)
+- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, 2026. [https://doi.org/10.2139/ssrn.7736020](https://doi.org/10.2139/ssrn.7736020)
+- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark (Version 1). Nikshep Paliwal, **Rishabh Aryan**, Nishtha Kalia. *Zenodo*, 2026. [https://doi.org/10.5281/zenodo.23959426](https://doi.org/10.5281/zenodo.23959426)
 
 ### `> 2026` · 40 entries
 
