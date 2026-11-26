@@ -17,6 +17,8 @@
 
 <p align="center"><b>Rishabh Aryan</b> · AI/ML researcher and R&amp;D engineer · AI Orchestrator · Agentic AI Engineer · M.Tech in Artificial Intelligence &amp; Data Science, IIIT Bhagalpur · machine learning, deep learning, wind power forecasting, quantum machine learning, explainable AI (SHAP, LIME), real estate price prediction, NLP and healthcare AI · Python, scikit-learn, PyTorch, FastAPI</p>
 
+<p align="center"><a href="https://www.rishabharyan.in">rishabharyan.in</a> · <a href="https://www.linkedin.com/in/rishabh-aryan-52bb07287">LinkedIn</a> · <a href="mailto:rishabharyan887@gmail.com">rishabharyan887@gmail.com</a></p>
+
 <div align="center">
 
 I use agentic AI tools for coding: Codex, Claude Code, Cursor, Devin and Google Antigravity.
@@ -241,7 +243,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 <img src="./assets/h-arsenal.svg" alt="LOADOUT: tech stack" width="100%"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,flask,html,css,js,git,github,linux&theme=dark" alt="Tech stack: Python, scikit-learn, PyTorch, Flask, HTML, CSS, JavaScript, Git, GitHub, Linux"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,flask,html,css,js,ts,git,github,linux&theme=dark" alt="Tech stack: Python, scikit-learn, PyTorch, Flask, HTML, CSS, JavaScript, TypeScript, Git, GitHub, Linux"/>
 </p>
 
 `pandas` · `NumPy` · `LightGBM` · `XGBoost` · `statsmodels` · `PennyLane` · `Ultralytics YOLO11` · `ONNX Runtime Web` · `fairlearn` · `SHAP` · `LIME` · `FastAPI` · `Docker` · `n8n` · `matplotlib` · `seaborn` · `Jupyter`
@@ -252,9 +254,14 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 | Period | Programme |
 |---|---|
-| — | **M.Tech, Artificial Intelligence & Data Science** — Indian Institute of Information Technology (IIIT) Bhagalpur |
-| — | **6-Month Industrial Training & Certification Program in AI & ML** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India |
+| 2025 – Current (expected 2027) | **M.Tech, Artificial Intelligence & Data Science** — Indian Institute of Information Technology (IIIT) Bhagalpur, an Institute of National Importance under the Ministry of Education, Government of India. CGPA 7.86/10 (provisional, after two semesters). |
+| Jul 2026 – Current | **6-Month Industrial Training & Certification Program in AI & ML** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India. Research during this programme includes the BEED EEG epilepsy study and pan-cancer RNA-Seq classification. |
 | 10 Jun – 10 Aug 2026 | **Internship: AI (LLMs, GenAI, Automation & AI Agents)** — Summer School 2026, IIT Jammu, in collaboration with Techible and I3C IIT Jammu. During this internship I built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate) at a 24-hour hackathon at IIT Jammu. |
+| 3 Jun 2025 – Current | **Designated Partner** — Automated Pixel Marketing LLP (LLPIN ACO-8423, Registrar of Companies, Patna). |
+| 2023 – 2025 | **Master of Design (M.Des) in User Experience ("Imagine XP")** — DIT University (UGC-recognized). CGPA 8.92/10; completed 14 Jun 2025. Final semester: 16-credit practical training internship, graded A+ (SGPA 10.00). |
+| 2019 – 2023 | **Bachelor of Technology (B.Tech) in Computer Science and Engineering** — MATS University, MATS School of Engineering and IT (UGC-recognized, NAAC-accredited; AICTE-approved). CGPA 8.05/10. |
+| 2017 – 2020 | **Diploma in Computer Science and Engineering** — Himalayan Garhwal University. First Division, overall 75.08%. |
+| May 2017 | **Secondary School Certificate (Class 10)** — National Education Institute, Board of School Education Hubli, Karnataka. 558/600 (93%), Distinction. |
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -264,86 +271,89 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 51 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents and a copyright registration. Grouped by year, newest first.
 
+`Lead` marks works on which I am the first or sole author (47 of the listed entries).
+
 ### `> PREPRINTS` · 4 entries
 
 **Elsevier SSRN (2)**
 
-- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. *SSRN*, https://doi.org/10.2139/ssrn.7736020.
-- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. *SSRN*, https://doi.org/10.2139/ssrn.7736139.
+- Memorised, Not Diagnosed? Auditing Near-duplicate Leakage, Calibration and Explanation Faithfulness in Brain Tumour MRI Classification. Nishtha Kalia, **Er. Rishabh Aryan**, Sarwan Singh, Nikshep Paliwal. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736020).
+- Seizure Types or Recording Fingerprints? A Provenance Audit and Leakage-aware Benchmark of Classifiers on the Bangalore EEG Epilepsy Dataset. Nikshep Paliwal, Nishtha Kalia, **Er. Rishabh Aryan**, Gurpreet Singh, Sarwan Singh. [*Elsevier SSRN*](https://doi.org/10.2139/ssrn.7736139).
 
 **Zenodo (2)**
 
-- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Aryan, Er. Rishabh**. *Zenodo*, https://doi.org/10.5281/zenodo.24553548.
-- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Er. Rishabh Aryan**, Nishtha Kalia. *Zenodo*, https://doi.org/10.5281/zenodo.23959426.
+- Algorithmic Amplification, Identity Deception, and Non-Consensual Intimate Imagery: A Research Framework for a Computational Discourse and Detection Study of the 2025 Nanjing "Sister Hong" Incident. **Er. Rishabh Aryan**. [*Zenodo*](https://doi.org/10.5281/zenodo.24553548). `Lead`
+- An Integrated Responsible AI Framework for Fairness, Interpretability, and Ethical Governance: A Provenance-Anchored, Auditable Evaluation on the UCI Adult Benchmark. Nikshep Paliwal, **Er. Rishabh Aryan**, Nishtha Kalia. [*Zenodo*](https://doi.org/10.5281/zenodo.23959426).
 
-### `> 2026` · 42 entries
+### `> 2026` · 43 entries
 
-**Papers, chapters and books (36)**
+**Papers, chapters and books (37)**
 
-- Towards Immersive Classrooms: Practical Approaches to AR and VR Adoption in Indian Educational Institutions. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 103, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30.
-- Automated Multi-Class Chest X-Ray Classification: A Hybrid cGAN-Transfer Learning Framework for Detecting Normal, Tuberculosis, Pneumonia, and COVID-19 Severity Levels. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 121, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30.
-- Predicting Student Dropout and Satisfaction in Virtual Learning Environments: A Comparative Study of ML Algorithms. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 136, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30.
-- Predictive Maintenance for Construction Sites: Leveraging IoT and AI for Minimizing Downtime. **Aryan, Er. Rishabh**. *International Journal of Engineering Development and Research*.
-- Chronic Kidney Disease Stage Identification in HIV Infected Patients Using Supervised Machine Learning: A Review. **Aryan, Er. Rishabh**. *International Journal of Versatile Research and Analysis*.
-- Comparative Analysis of Traditional Machine Learning Algorithms for Text Classification in Natural Language Processing: A Study of Naive Bayes, Random Forest, and Support Vector Machine with TF-IDF Vectorization. **Aryan, Er. Rishabh**. *High Technology Letters*.
-- Machine Learning-Based Fault Detection and Recovery Prediction in Digital Microfluidic Biochips: An Integrated XGBoost-SMOTE Framework. **Aryan, Er. Rishabh**. *Xi'an Jianzhu Keji Daxue Xuebao/Journal of Xi'an University of Architecture and Technology*.
+- Integrated Artificial Intelligence, Internet of Things, and Digital Twin Technologies for Next-Generation Sustainable Engineering Ecosystems. Dr. Navin Kumar Goyal, **Er. Rishabh Aryan**, Dr. Sweety Bakyarani E, Dr. J. Merlin Florrence, Dr. G. Nagaraj, Urlam Pranita. *2026 International Conference on Artificial Intelligence Research and Application (IEEE ICAIRA 2026)*.
+- Towards Immersive Classrooms: Practical Approaches to AR and VR Adoption in Indian Educational Institutions. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 103, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30. `Lead`
+- Automated Multi-Class Chest X-Ray Classification: A Hybrid cGAN-Transfer Learning Framework for Detecting Normal, Tuberculosis, Pneumonia, and COVID-19 Severity Levels. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 121, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30. `Lead`
+- Predicting Student Dropout and Satisfaction in Virtual Learning Environments: A Comparative Study of ML Algorithms. **Aryan, Er. Rishabh**. *The Future of Engineering Innovations: Smart Technologies and Advanced Design @ 2026*, vol. 3, p. 136, Chyren Publications, 742, Ground Floor, Maruti Chowk, Ghitorni, Delhi-30. `Lead`
+- Predictive Maintenance for Construction Sites: Leveraging IoT and AI for Minimizing Downtime. **Aryan, Er. Rishabh**. *International Journal of Engineering Development and Research*. `Lead`
+- Chronic Kidney Disease Stage Identification in HIV Infected Patients Using Supervised Machine Learning: A Review. **Aryan, Er. Rishabh**. *International Journal of Versatile Research and Analysis*. `Lead`
+- Comparative Analysis of Traditional Machine Learning Algorithms for Text Classification in Natural Language Processing: A Study of Naive Bayes, Random Forest, and Support Vector Machine with TF-IDF Vectorization. **Aryan, Er. Rishabh**. *High Technology Letters*. `Lead`
+- Machine Learning-Based Fault Detection and Recovery Prediction in Digital Microfluidic Biochips: An Integrated XGBoost-SMOTE Framework. **Aryan, Er. Rishabh**. *Xi'an Jianzhu Keji Daxue Xuebao/Journal of Xi'an University of Architecture and Technology*. `Lead`
 - Mathematical Modeling and Image Processing Techniques for Early Detection of Tumor Heterogeneity in Medical Imaging. Dr. C. Balaji, **Er. Rishabh Aryan**, Rachit Ahuja, Dr. Prabhat Bansal, Dr. Krishnan Bandyopadhyay, Prem Kumar. *Scientific Culture*.
-- Hybrid Deep Learning Models with Attention Mechanisms for Short-Term Wind Speed Forecasting: A Comprehensive Review and Benchmarking of CNN–BiLSTM–Attention Using Synthetic SCADA-Style Data for Robust Preliminary Validation. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Multidisciplinary Engineering in Current Research (IJMEC)*.
-- Hybrid Deep Learning Models with Attention Mechanisms for Short-Term Wind Speed Forecasting: A Comprehensive Review and Benchmarking of CNN–BiLSTM–Attention on Real SCADA Data. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Multidisciplinary Engineering in Current Research (IJMEC)*.
-- Performance Benchmarking of a Novel CNN–BiLSTM–Attention Hybrid Model for Short-Term Spatiotemporal Wind Speed Forecasting Using Indian SCADA Data. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Engineering and Science Research (IJESR)*.
-- A Unified GeoAI Hybrid Framework for African Windscapes: Integrating Evolutionary Swarm, Fuzzy-Neuro Computing, and Probabilistic Spatio-Temporal Wind Forecasting for Sustainable Regional Energy Planning. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *African Journal of Geography and Regional Planning (AJGRP)*.
-- Explainable AI for Wind Speed Forecasting: SHAP and LIME Interpretability of the CNN–BiLSTM–Attention Model on Real-World Indian Wind Farm Data. **Er. Rishabh Aryan**, Manimozhi I. *Journal of African Development (JAD)*.
-- Mathematical Formulations, Optimization, and Statistical Validation of Hybrid Deep Learning Models for Short-Term Wind Speed Forecasting: A Comparative Analysis of ANN, LSTM, SVM, ARIMA-ANN, CNN-BiLSTM, and CNN-BiLSTM-Attention Architectures. **Er. Rishabh Aryan**, Manimozhi I. *International Journal for Research in Advanced Computer Science and Engineering*.
-- Modeling and Forecasting of Wind Speed Using ARIMA and SARIMA Models: An Empirical Study of Chennai City. **Er. Rishabh Aryan**, Manimozhi I. *International Journal for Research in Advanced Computer Science and Engineering*.
+- Hybrid Deep Learning Models with Attention Mechanisms for Short-Term Wind Speed Forecasting: A Comprehensive Review and Benchmarking of CNN–BiLSTM–Attention Using Synthetic SCADA-Style Data for Robust Preliminary Validation. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Multidisciplinary Engineering in Current Research (IJMEC)*. `Lead`
+- Hybrid Deep Learning Models with Attention Mechanisms for Short-Term Wind Speed Forecasting: A Comprehensive Review and Benchmarking of CNN–BiLSTM–Attention on Real SCADA Data. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Multidisciplinary Engineering in Current Research (IJMEC)*. `Lead`
+- Performance Benchmarking of a Novel CNN–BiLSTM–Attention Hybrid Model for Short-Term Spatiotemporal Wind Speed Forecasting Using Indian SCADA Data. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *International Journal of Engineering and Science Research (IJESR)*. `Lead`
+- A Unified GeoAI Hybrid Framework for African Windscapes: Integrating Evolutionary Swarm, Fuzzy-Neuro Computing, and Probabilistic Spatio-Temporal Wind Forecasting for Sustainable Regional Energy Planning. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *African Journal of Geography and Regional Planning (AJGRP)*. `Lead`
+- Explainable AI for Wind Speed Forecasting: SHAP and LIME Interpretability of the CNN–BiLSTM–Attention Model on Real-World Indian Wind Farm Data. **Er. Rishabh Aryan**, Manimozhi I. *Journal of African Development (JAD)*. `Lead`
+- Mathematical Formulations, Optimization, and Statistical Validation of Hybrid Deep Learning Models for Short-Term Wind Speed Forecasting: A Comparative Analysis of ANN, LSTM, SVM, ARIMA-ANN, CNN-BiLSTM, and CNN-BiLSTM-Attention Architectures. **Er. Rishabh Aryan**, Manimozhi I. *International Journal for Research in Advanced Computer Science and Engineering*. `Lead`
+- Modeling and Forecasting of Wind Speed Using ARIMA and SARIMA Models: An Empirical Study of Chennai City. **Er. Rishabh Aryan**, Manimozhi I. *International Journal for Research in Advanced Computer Science and Engineering*. `Lead`
 - Enhancing Dermatological Diagnosis Through Multimodal Deep Learning and Visual–Textual Data Fusion. I. Manimozhi, D. Lakshmi, **Er. Rishabh Aryan**. *Revista Latinoamericana de la Papa*.
-- Neuro-Symbolic Deep Learning for Interpreting Pre-Columbian Geoglyphs and Rock Art in the Brazilian Amazon: Implementation of a Multimodal Model, Explainability Analysis, and Governance Frameworks for Indigenous Cultural Sovereignty. **Aryan, Er. Rishabh**. *Revista Latinoamericana de la Papa*.
-- Trust, Explainability, and Workflow Integration of Multimodal AI in Dermatology: Insights from Indian Dermatologists. **Er. Rishabh Aryan**, Manimozhi I. *International Journal of Engineering Development and Research*.
-- Revolutionising Dental Care Through Artificial Intelligence: Applications in Oral Surgery and Diagnostics. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *Revista Latinoamericana de la Papa*.
-- Machine Learning Applications in Autism Spectrum Disorder Therapy: Personalized Intervention Planning, Behavioral Monitoring, and Outcome Prediction. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *Revista Latinoamericana de la Papa*.
-- Riding the Wind Like Liezi: Re-Embodying Daoist Wu Wei and Feng-Qi Dynamics in Hybrid Deep Learning Models for Ultra-Accurate Wind Speed Forecasting. **Er. Rishabh Aryan**, Manimozhi I. *Multidisciplinary Journal of Academic Publications*.
-- Wind Speed Forecasting Using Quantum Computing: A Hybrid Variational Quantum Circuit Approach on Indian SCADA Data. **Er. Rishabh Aryan**, Sonam Eyden. *Engineering Universe For Scientific Research And Management*.
-- Introduction to AI and Machine Learning for Modern Systems. **Aryan, Er. Rishabh**. Intellect Jurists Publishers - International Publishers and Distributors (India).
-- Quantum-Classical Hybrid Intelligence for the Green Hydrogen Revolution: Quantum-Inspired Tensor Networks and Variational Quantum Circuits Integrated with CNN-BiLSTM-Multihead Attention for Hyper-Accurate Wind Speed Forecasting and Real-Time Electrol. **Er. Rishabh Aryan**, Sonam Eyden, Manimozhi I, Dr. Tryambak Hiwarkar. *Tanz Research Journal*.
+- Neuro-Symbolic Deep Learning for Interpreting Pre-Columbian Geoglyphs and Rock Art in the Brazilian Amazon: Implementation of a Multimodal Model, Explainability Analysis, and Governance Frameworks for Indigenous Cultural Sovereignty. **Aryan, Er. Rishabh**. *Revista Latinoamericana de la Papa*. `Lead`
+- Trust, Explainability, and Workflow Integration of Multimodal AI in Dermatology: Insights from Indian Dermatologists. **Er. Rishabh Aryan**, Manimozhi I. *International Journal of Engineering Development and Research*. `Lead`
+- Revolutionising Dental Care Through Artificial Intelligence: Applications in Oral Surgery and Diagnostics. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *Revista Latinoamericana de la Papa*. `Lead`
+- Machine Learning Applications in Autism Spectrum Disorder Therapy: Personalized Intervention Planning, Behavioral Monitoring, and Outcome Prediction. **Er. Rishabh Aryan**, Prof. Dr. Tryambak Hiwarkar. *Revista Latinoamericana de la Papa*. `Lead`
+- Riding the Wind Like Liezi: Re-Embodying Daoist Wu Wei and Feng-Qi Dynamics in Hybrid Deep Learning Models for Ultra-Accurate Wind Speed Forecasting. **Er. Rishabh Aryan**, Manimozhi I. *Multidisciplinary Journal of Academic Publications*. `Lead`
+- Wind Speed Forecasting Using Quantum Computing: A Hybrid Variational Quantum Circuit Approach on Indian SCADA Data. **Er. Rishabh Aryan**, Sonam Eyden. *Engineering Universe For Scientific Research And Management*. `Lead`
+- Introduction to AI and Machine Learning for Modern Systems. **Aryan, Er. Rishabh**. Intellect Jurists Publishers - International Publishers and Distributors (India). `Lead`
+- Quantum-Classical Hybrid Intelligence for the Green Hydrogen Revolution: Quantum-Inspired Tensor Networks and Variational Quantum Circuits Integrated with CNN-BiLSTM-Multihead Attention for Hyper-Accurate Wind Speed Forecasting and Real-Time Electrol. **Er. Rishabh Aryan**, Sonam Eyden, Manimozhi I, Dr. Tryambak Hiwarkar. *Tanz Research Journal*. `Lead`
 - A Retrieval-Augmented Large Language Model Framework for Intelligent Maritime Decision Support Systems. I. Manimozhi, D.Lakshmi, A.Akila, **Rishabh Aryan**. *Amet Global Maritime Summit (AGMS 2026)*, 1(1), p. 255.
-- Physics-Informed Hybrid Classical-Quantum LSTM Network for Wind Speed Forecasting, Optimized via a Chaotic Lévy-Flight Quantum-Inspired Grey Wolf Metaheuristic. **Aryan, Rishabh**. *International Conference on Multidisciplinary Research and Global Perspectives (ICMRIGP 2026)*.
-- Physics-Informed Hybrid Classical-Quantum LSTM Network for Wind Speed Forecasting, Optimized via a Chaotic Lévy-Flight Quantum-Inspired Grey Wolf Metaheuristic. **Aryan, Rishabh**. *Dianwang Jishu/Power System Technology*, 50(3), pp. 245 - 279, Power System Technology Press.
-- Artificial Intelligence Applications in Modern Defense Strategy and Decision Making Processes. **Aryan, Er. Rishabh**. *Artificial Intelligence: Theory, Techniques, and Real-World Integration V6B77*, vol. 1, pp. 100-109, Iterative International Publishers (IIP Series).
-- Mathematical Foundations of AI. **Aryan, Rishabh**. *Artificial Intelligence: Theory, Techniques, and Real-World Integration V6B77*, vol. 1, pp. 86-99, Iterative International Publishers (IIP Series).
-- Integration of Real Time IoT Sensor Networks and Advanced Wind Speed Forecasting Models Within an N8n Based Automation Framework for Predictive Maintenance of Wind Turbines and Enhanced Renewable Energy Grid Stability. **Aryan, Er. Rishabh**. *International Journal of Engineering Applied Science and Management*, 7(8), pp. 1-30, IJEASM Assosiation, Bhopal, Madhya Pradesh (India).
-- Multi-Agent AI Chief of Staff for Turbine Fleet Operations: Integrating Advanced Wind Speed Forecasting to Optimise Real Time Performance, Maintenance and Grid Integration. **Aryan, Er. Rishabh**. *International Journal of Artificial Intelligence and Computer Electronics*, 2(3), pp. 1-32, IJAICE, Taurusavenue 105 2122 LS, Hoofddorp, Netherlands.
-- Recursive Self-Optimizing Neural Architectures for Ultra-High-Resolution Wind Speed Forecasting and Autonomous Grid-Stabilization Protocols Under Extreme Uncertainty. **Aryan, Er. Rishabh**. *International Journal of Artificial Intelligence and Communication Networks*, 2(3), pp. 5-29, U.S. Center for Scholarly Excellence, 265 E River Park Circle, 1st Floor ….
-- From Rule-Based Systems to Retrieval-Augmented LLMs: A Comparative Review of AI Approaches for Maize Pest and Disease Management in Punjab. **Rishabh Aryan**, Anju, Satpal, Nishtha Kalia, Dr. Sarwan Singh. *Cadernos de Pós-Graduação em Direito Político e Econômico*, 26(2), pp. 1069-1092, Centro de Estudos Acadêmicos Press (Center for Academic Studies Press).
-- Wind-Aware Multi-Agent UAV Coordination for Targeted Pesticide Application: A Chemical Exposure and Occupational Health Risk Assessment for Fall Armyworm Management in Spring Maize, Punjab. **Rishabh Aryan**, Anju, Satpal, Nishtha Kalia, Dr. Sarwan Singh. *Journal of Chemical Health Risks (JCHR)*, 16(5), pp. 169-188, Islamic Azad University.
-- A Hybrid CNN-Vision Transformer Framework for Multi-Class Plant Disease Identification from Leaf Images. **Rishabh Aryan**, Anju. *Journal of Machine Learning Innovations and Artificial Intelligence Horizons*, 1(2), pp. 153-171, Notation Trendplus Publishing Pvt. Ltd.
-- Integrating Digital Agriculture and Smart Farming Technologies for Climate-Smart Crop Management: A Field-Based Evaluation of AI, IoT, and Precision Systems. **Rishabh Aryan**, Anju. *Journal of Environmental Agriculture and Agroecosystem Management*, vol. 1, Vol. 1 No. 1 (2026): October, pp. 165-183, Notation Trendplus Publishing Pvt. Ltd.
+- Physics-Informed Hybrid Classical-Quantum LSTM Network for Wind Speed Forecasting, Optimized via a Chaotic Lévy-Flight Quantum-Inspired Grey Wolf Metaheuristic. **Aryan, Rishabh**. *International Conference on Multidisciplinary Research and Global Perspectives (ICMRIGP 2026)*. `Lead`
+- Physics-Informed Hybrid Classical-Quantum LSTM Network for Wind Speed Forecasting, Optimized via a Chaotic Lévy-Flight Quantum-Inspired Grey Wolf Metaheuristic. **Aryan, Rishabh**. *Dianwang Jishu/Power System Technology*, 50(3), pp. 245 - 279, Power System Technology Press. `Lead`
+- Artificial Intelligence Applications in Modern Defense Strategy and Decision Making Processes. **Aryan, Er. Rishabh**. *Artificial Intelligence: Theory, Techniques, and Real-World Integration V6B77*, vol. 1, pp. 100-109, Iterative International Publishers (IIP Series). `Lead`
+- Mathematical Foundations of AI. **Aryan, Rishabh**. *Artificial Intelligence: Theory, Techniques, and Real-World Integration V6B77*, vol. 1, pp. 86-99, Iterative International Publishers (IIP Series). `Lead`
+- Integration of Real Time IoT Sensor Networks and Advanced Wind Speed Forecasting Models Within an N8n Based Automation Framework for Predictive Maintenance of Wind Turbines and Enhanced Renewable Energy Grid Stability. **Aryan, Er. Rishabh**. *International Journal of Engineering Applied Science and Management*, 7(8), pp. 1-30, IJEASM Assosiation, Bhopal, Madhya Pradesh (India). `Lead`
+- Multi-Agent AI Chief of Staff for Turbine Fleet Operations: Integrating Advanced Wind Speed Forecasting to Optimise Real Time Performance, Maintenance and Grid Integration. **Aryan, Er. Rishabh**. *International Journal of Artificial Intelligence and Computer Electronics*, 2(3), pp. 1-32, IJAICE, Taurusavenue 105 2122 LS, Hoofddorp, Netherlands. `Lead`
+- Recursive Self-Optimizing Neural Architectures for Ultra-High-Resolution Wind Speed Forecasting and Autonomous Grid-Stabilization Protocols Under Extreme Uncertainty. **Aryan, Er. Rishabh**. *International Journal of Artificial Intelligence and Communication Networks*, 2(3), pp. 5-29, U.S. Center for Scholarly Excellence, 265 E River Park Circle, 1st Floor …. `Lead`
+- From Rule-Based Systems to Retrieval-Augmented LLMs: A Comparative Review of AI Approaches for Maize Pest and Disease Management in Punjab. **Rishabh Aryan**, Anju, Satpal, Nishtha Kalia, Dr. Sarwan Singh. *Cadernos de Pós-Graduação em Direito Político e Econômico*, 26(2), pp. 1069-1092, Centro de Estudos Acadêmicos Press (Center for Academic Studies Press). `Lead`
+- Wind-Aware Multi-Agent UAV Coordination for Targeted Pesticide Application: A Chemical Exposure and Occupational Health Risk Assessment for Fall Armyworm Management in Spring Maize, Punjab. **Rishabh Aryan**, Anju, Satpal, Nishtha Kalia, Dr. Sarwan Singh. *Journal of Chemical Health Risks (JCHR)*, 16(5), pp. 169-188, Islamic Azad University. `Lead`
+- A Hybrid CNN-Vision Transformer Framework for Multi-Class Plant Disease Identification from Leaf Images. **Rishabh Aryan**, Anju. *Journal of Machine Learning Innovations and Artificial Intelligence Horizons*, 1(2), pp. 153-171, Notation Trendplus Publishing Pvt. Ltd. `Lead`
+- Integrating Digital Agriculture and Smart Farming Technologies for Climate-Smart Crop Management: A Field-Based Evaluation of AI, IoT, and Precision Systems. **Rishabh Aryan**, Anju. *Journal of Environmental Agriculture and Agroecosystem Management*, vol. 1, Vol. 1 No. 1 (2026): October, pp. 165-183, Notation Trendplus Publishing Pvt. Ltd. `Lead`
 
 **Patents and copyright (6)**
 
-- Drug Dosage Dispensing Device. **Er. Rishabh Aryan**, Dr. Sheik Arshad Ali, Dr. Jeff Walter Rajadurai OR, Dr. Purtee Kohli, Dr. Bidisha Borthakur, Ms. Vratika Arya. Patent 526834-001 (IN).
-- Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Patent 524970-001 (IN).
+- Drug Dosage Dispensing Device. **Er. Rishabh Aryan**, Dr. Sheik Arshad Ali, Dr. Jeff Walter Rajadurai OR, Dr. Purtee Kohli, Dr. Bidisha Borthakur, Ms. Vratika Arya. Patent 526834-001 (IN). `Lead`
+- Smart Automated Energy and Mechanical Control Device. **Er. Rishabh Aryan**, Dr. Muthuraman Subbiah, Madhavi R.P., Dr. Priyanka Gaurav Jaiswal, Dr. Shyamal Mandal, Dr. Sweety Bakyarani E. Patent 524970-001 (IN). `Lead`
 - Wearable Sensor for Sports and Medical Use. Dr. CMA. Nayankumar Manilal Malde, Mr. Bhaskar J. Raskar, Maj. Dr Rahul Dilipkumar Magdum, Nishant Bharti, **Er. Rishabh Aryan**, Dr. Gitam Singh, Dr. Phatangare Ambadas Somnath, Dr. Mohit Kumar. Patent 496859-001 (IN).
 - AI-Based Autonomous Multi-Agent Cyber Threat Detection and Response System. Vivek Kothuru, Dr. R Sarath Babu, Dr. Roshan Suresh Bhanuse, Dr. Shyamal Mandal, **Er. Rishabh Aryan**, Dr. P. Ramasubramanian. Patent 510316-001 (IN).
-- Embodying Wu Wei and Ziran in Comptemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO.
+- Embodying Wu Wei and Ziran in Comptemporary Practice: Daoist Philosophical Principles Applied to a Hybrid CNN-BiLSTM-Attention Model for Spatiotemporal Wind Speed Forecasting-Insights from Indian SCADA Data, Chennai ARIMA/SARIMA Analysis, and African. **Aryan, Er. Rishabh**. *Government of India (Copyright Office)*, LD-34737/2026-CO. `Lead`
 - Hybrid Mechanical Waste-to-Energy Processing System. Shende, Prashant N., Chowdhury, Prasun, Gaikwad, Amol Dilipkumar, **Aryan, Rishabh**, Tolani, Smita Chandar, Ravi, S. Robert. Patent 20,262,107,892 (IN).
 
 ### `> 2025` · 2 entries
 
 **Papers, chapters and books (2)**
 
-- Investigation of Farmer Livelihoods and the Role of Digital Technologies in Empowering Rural Communities in Bhagalpur, Bihar, India. **Rishabh Aryan**, Abdul Kalam. *Revista Latinoamericana de la Papa*.
-- Early-Stage Hot Event Prediction in Social Networks Using a Bayesian Modeling Framework. **Er. Rishabh Aryan**, Dr. Bhanu Priya. *International Journal of Information Technology and Computer Engineering*.
+- Investigation of Farmer Livelihoods and the Role of Digital Technologies in Empowering Rural Communities in Bhagalpur, Bihar, India. **Rishabh Aryan**, Abdul Kalam. *Revista Latinoamericana de la Papa*. `Lead`
+- Early-Stage Hot Event Prediction in Social Networks Using a Bayesian Modeling Framework. **Er. Rishabh Aryan**, Dr. Bhanu Priya. *International Journal of Information Technology and Computer Engineering*. `Lead`
 
 <details>
 <summary><b><code>&gt; 2024</code> · 6 entries</b> (click to expand)</summary>
 
 **Papers, chapters and books (6)**
 
-- Comprehensive Survey of Evolution of User Interface Banking and Financial Services Industry. **Rishabh Aryan**, Mr. Abdul Kalam. *International Research Journal of Humanities and Interdisciplinary Studies*.
-- Designing Bio-Inspired Clay Bricks for Sustainable Construction: Harnessing Nature's Design for Reduced Environmental Impact and Enhanced Performance. **Rishabh Aryan**, Mrs. Mahima Yadav, Mr. Abdul Kalam. *International Journal of Advance Research and Innovative Ideas in Education*.
-- Optimization of the Brick Making Process: Identifying Pain Points and Opportunities for Improvement in Bhagalpur, Bihar. **Rishabh Aryan**, Er. Chandan Kumar Pandey, Dr. Jaswinder Kaur. *International Journal of Advance Research and Innovative Ideas in Education*.
+- Comprehensive Survey of Evolution of User Interface Banking and Financial Services Industry. **Rishabh Aryan**, Mr. Abdul Kalam. *International Research Journal of Humanities and Interdisciplinary Studies*. `Lead`
+- Designing Bio-Inspired Clay Bricks for Sustainable Construction: Harnessing Nature's Design for Reduced Environmental Impact and Enhanced Performance. **Rishabh Aryan**, Mrs. Mahima Yadav, Mr. Abdul Kalam. *International Journal of Advance Research and Innovative Ideas in Education*. `Lead`
+- Optimization of the Brick Making Process: Identifying Pain Points and Opportunities for Improvement in Bhagalpur, Bihar. **Rishabh Aryan**, Er. Chandan Kumar Pandey, Dr. Jaswinder Kaur. *International Journal of Advance Research and Innovative Ideas in Education*. `Lead`
 - IoT-Driven Parking Solution to Enhance DIT University’s Infrastructure. Ishaan Chaudhary, **Rishabh Aryan**, Abhishek Parmar, Gopal Lohar. *International Journal of Original Recent Advanced Research*.
-- Enhancing Government-Citizen Interaction: Bridging Service Gaps Through Digital Design Solutions in Bihar, India. **Rishabh Aryan**, Abdul Kalam. *Revista Latinoamericana de la Papa*.
-- Connecting the Dots: Mapping & Mastering the TSDPL Customer Experience. **Rishabh Aryan**, Abdul Kalam, Mahima Yadav, Subhash Chandra Pandey. *Revista Latinoamericana de la Papa*.
+- Enhancing Government-Citizen Interaction: Bridging Service Gaps Through Digital Design Solutions in Bihar, India. **Rishabh Aryan**, Abdul Kalam. *Revista Latinoamericana de la Papa*. `Lead`
+- Connecting the Dots: Mapping & Mastering the TSDPL Customer Experience. **Rishabh Aryan**, Abdul Kalam, Mahima Yadav, Subhash Chandra Pandey. *Revista Latinoamericana de la Papa*. `Lead`
 
 </details>
 
@@ -352,7 +362,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 **Papers, chapters and books (1)**
 
-- A Study on Digital Marketing and its Impact on Revenue Generation. **Rishabh Aryan**, Poonam Gupta. *Revista Latinoamericana de la Papa*.
+- A Study on Digital Marketing and its Impact on Revenue Generation. **Rishabh Aryan**, Poonam Gupta. *Revista Latinoamericana de la Papa*. `Lead`
 
 </details>
 
@@ -361,8 +371,8 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 **Papers, chapters and books (2)**
 
-- Dakshin Bihar Gramin Bank: Redefining the Digital Banking Experience with a Unified UI. **Rishabh Aryan**, Poonam Gupta. *Revista Latinoamericana de la Papa*.
-- To Study the Insurance Claims Detection Using Machine Learning. **Rishabh Aryan**, Amit Kumar Sahu. *Revista Latinoamericana de la Papa*.
+- Dakshin Bihar Gramin Bank: Redefining the Digital Banking Experience with a Unified UI. **Rishabh Aryan**, Poonam Gupta. *Revista Latinoamericana de la Papa*. `Lead`
+- To Study the Insurance Claims Detection Using Machine Learning. **Rishabh Aryan**, Amit Kumar Sahu. *Revista Latinoamericana de la Papa*. `Lead`
 
 </details>
 
