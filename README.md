@@ -258,7 +258,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 |---|---|
 | Jul 2026 – Current | **6-Month Industrial Training & Certification Program in Artificial Intelligence and Machine Learning** — jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India. Research during this programme includes the BEED EEG epilepsy study and pan-cancer RNA-Seq classification. |
 | 10 Jun – 10 Aug 2026 | **Intern, AI (LLMs, GenAI, Automation & AI Agents)** — Summer School 2026, IIT Jammu, in collaboration with Techible and I3C IIT Jammu. During this internship I built [**Cobratate**](https://github.com/Rishabh-bgp/cobratate) at a 24-hour hackathon at IIT Jammu. |
-| 3 Jun 2025 – Current | **Designated Partner** — Automated Pixel Marketing LLP (LLPIN ACO-8423, Registrar of Companies, Patna). I contribute in **AI/ML** and **Genetic Algorithms**. |
+| 3 Jun 2025 – Current | **Designated Partner** — Automated Pixel Marketing LLP (LLPIN ACO-8423, Registrar of Companies, Patna). I contribute in **AI/ML**, **Genetic Algorithms** and **Soft Computing**. |
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
