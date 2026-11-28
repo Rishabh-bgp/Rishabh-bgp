@@ -18,7 +18,7 @@
 
 <p align="center"><b>Rishabh Aryan</b> · AI/ML researcher and R&amp;D engineer · AI Orchestrator · Agentic AI Engineer · M.Tech in Artificial Intelligence &amp; Data Science, IIIT Bhagalpur · machine learning, deep learning, wind power forecasting, quantum machine learning, explainable AI (SHAP, LIME), real estate price prediction, NLP and healthcare AI · Python, scikit-learn, PyTorch, FastAPI</p>
 
-<p align="center"><a href="https://rishabh-bgp.github.io/">Academic CV · rishabh-bgp.github.io</a> · <a href="https://rishabh-bgp.github.io/scholar-profile/">Scholar Profile</a> · <a href="https://www.linkedin.com/in/rishabh-aryan-52bb07287">LinkedIn</a> · <a href="mailto:rishabharyan887@gmail.com">rishabharyan887@gmail.com</a></p>
+<p align="center"><a href="https://rishabh-bgp.github.io/">Academic CV · rishabh-bgp.github.io</a> · <a href="https://www.linkedin.com/in/rishabh-aryan-52bb07287">LinkedIn</a> · <a href="mailto:rishabharyan887@gmail.com">rishabharyan887@gmail.com</a></p>
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Wind power forecasting reference implementations: clean Python rebuilds on synth
 
 58 entries from [`publications.csv`](publications.csv): papers, book chapters, books, patents, preprints and a copyright registration. Grouped by year, newest first.
 
-**Searchable version:** the [Scholar Profile](https://rishabh-bgp.github.io/scholar-profile/) lists the same entries with search, year and type filters, a per-year chart and BibTeX export (source: [`scholar-profile`](https://github.com/Rishabh-bgp/scholar-profile)).
+**Searchable version:** the Scholar Profile badge above lists the same entries with search, year and type filters, a per-year chart and BibTeX export (source: [`scholar-profile`](https://github.com/Rishabh-bgp/scholar-profile)).
 
 `Lead` marks works on which I am the first or sole author (47 of the listed entries).
 
